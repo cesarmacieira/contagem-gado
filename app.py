@@ -615,7 +615,7 @@ elif pagina == "Contar rebanho":
                 help="Propostas abaixo do limiar escolhido. A conferência visual pode recuperar candidatos isolados; consulte o CSV de conferência.")
     img = cv2.imdecode(np.frombuffer(dados, np.uint8), cv2.IMREAD_COLOR)
     vis = ct.desenhar(img, b)
-    st.image(para_exibir(vis), caption=f"{len(b)} vacas detectadas", use_container_width=True)
+    st.image(para_exibir(vis), caption=f"{len(b)} vacas detectadas", width=min(900, vis.shape[1], max(1, int(560 * vis.shape[1] / vis.shape[0]))))
     c = st.columns(2)
     df = pd.DataFrame(b, columns=["x1", "y1", "x2", "y2"]).round(1)
     df["confianca"] = np.round(s, 3)

@@ -81,7 +81,7 @@ def painel_revisao(dados,caixas,scores,root,conf=.3,candidatos_scores=None,prefi
                 if d.get('proposta') or d['corrigido']:
                     st.metric('Proposta com animais localizados',d['contagem'])
                     st.warning(d['motivo'])
-                    st.image(cv2.cvtColor(ct.desenhar(img,np.asarray(d['caixas'],float).reshape(-1,4)),cv2.COLOR_BGR2RGB),caption='Marcacoes da proposta; confira cada animal',use_container_width=True)
+                    st.image(cv2.cvtColor(ct.desenhar(img,np.asarray(d['caixas'],float).reshape(-1,4)),cv2.COLOR_BGR2RGB),caption='Marcacoes da proposta; confira cada animal',width=min(900,w,max(1,int(560*w/h))))
             pacote=dict(localizacao=local,detector=len(caixas),caixas=np.asarray(caixas).tolist(),scores=np.asarray(scores).tolist(),gatilhos=sinais,revisao=r,decisao=decisao)
             st.download_button('Baixar detector e revisao (JSON)',json.dumps(pacote,ensure_ascii=False,indent=2),file_name='detector_vlm.json',mime='application/json',key=f'download_{state}')
 
@@ -124,5 +124,5 @@ def painel_video(root,inferir,config,conf):
     id_q=st.select_slider('Quadro para conferir',options=list(range(len(quadros))),format_func=lambda i:f"{quadros[i]['segundos']:.2f} s — {quadros[i]['contagem']} bovinos")
     q=quadros[id_q];foto_path=pasta/q['arquivo'];foto=foto_path.read_bytes();img=cv2.imdecode(np.frombuffer(foto,np.uint8),cv2.IMREAD_COLOR)
     b=np.asarray(q['caixas'],float).reshape(-1,4);s=np.asarray(q['scores'],float)
-    st.image(cv2.cvtColor(ct.desenhar(img,b),cv2.COLOR_BGR2RGB),caption=f"Quadro {q['quadro']}; {q['segundos']:.2f} s",use_container_width=True)
+    st.image(cv2.cvtColor(ct.desenhar(img,b),cv2.COLOR_BGR2RGB),caption=f"Quadro {q['quadro']}; {q['segundos']:.2f} s",width=min(900,img.shape[1],max(1,int(560*img.shape[1]/img.shape[0]))))
     painel_revisao(foto,b,s,root,conf,prefixo='video')
