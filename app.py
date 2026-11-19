@@ -499,21 +499,21 @@ elif pagina == "Contar rebanho":
     imgsz = int((m.get("imgsz_por_dominio") or {}).get(dom, m["tile"]))
     iou = float((m.get("iou_por_dominio") or {}).get(dom, 0.7))
     iou_juncao = float(m.get("iou_juncao", 0.5))
-    perfis = ["Configuração validada", "Rebanho de solo - experimental", "Ajuste manual"]
+    perfis = {"validado": "Configuração validada", "solo_experimental": "Rebanho de solo - experimental", "manual": "Ajuste manual"}
     brasil_path = PROJ / "data/experimentos/perfil_brasil_app.json"
     brasil = json.loads(brasil_path.read_text(encoding="utf-8")) if brasil_path.exists() else None
     if brasil and brasil.get("disponivel"):
-        perfis.insert(1, "Brasil - fotos com poucos animais")
+        perfis = {"validado": perfis["validado"], "brasil_poucos": "Brasil - fotos com poucos animais", **perfis}
     denso_path = PROJ / "data/modelos/perfil_detector_denso.json"
     denso_meta = json.loads(denso_path.read_text(encoding="utf-8")) if denso_path.exists() else None
     if denso_meta and denso_meta.get("disponivel"):
-        perfis.insert(1, "Rebanho de solo - detector ajustado")
-    perfil = "Especialista por visão" if especialista else st.radio("Perfil de contagem", perfis, horizontal=True)
+        perfis = {"validado": perfis["validado"], "solo_ajustado": "Rebanho de solo - detector ajustado", **perfis}
+    perfil = "especialista" if especialista else st.radio("Perfil de contagem", list(perfis), format_func=perfis.get, horizontal=True)
     modelo_mt = mtime("data/processed/modelo_gado.pt")
     modelo_chave = str(PROC / "modelo_gado.pt")
     classes_modelo, augment_modelo = None, False
     tile_usado, overlap_usado = m["tile"], m["overlap"]
-    if perfil == "Rebanho de solo - detector ajustado":
+    if perfil == "solo_ajustado":
         pesos_denso = PROJ / denso_meta["pesos"]
         modelo_mt = pesos_denso.stat().st_mtime_ns
         modelo = ler_modelo(modelo_mt, str(pesos_denso))
@@ -521,7 +521,7 @@ elif pagina == "Contar rebanho":
         cfg_denso = denso_meta["config"]
         modo, imgsz, conf_padrao, iou = "inteira", cfg_denso["imgsz"], cfg_denso["conf"], cfg_denso["iou"]
         st.info(denso_meta["descricao"])
-    if perfil == "Brasil - fotos com poucos animais":
+    if perfil == "brasil_poucos":
         pesos_brasil = PROJ / brasil["pesos"]
         modelo_mt = pesos_brasil.stat().st_mtime_ns
         modelo = ler_modelo(modelo_mt, str(pesos_brasil))
@@ -529,7 +529,7 @@ elif pagina == "Contar rebanho":
         cfg_brasil = brasil["config"]
         modo, imgsz, conf_padrao, iou = "inteira", cfg_brasil["imgsz"], cfg_brasil["conf"], cfg_brasil["iou"]
         st.info(brasil["descricao"])
-    if perfil == "Rebanho de solo — experimental":
+    if perfil == "solo_experimental":
         modo, imgsz, conf_padrao, iou = "inteira", 1280, 0.15, 0.7
         st.info("Configuração exploratória: recuperou animais nas fotos brasileiras, mas pode duplicar caixas. Confira a imagem anotada.")
     if especialista:
@@ -542,16 +542,16 @@ elif pagina == "Contar rebanho":
         iou_juncao = cfg_esp.get("iou_juncao", .5)
         classes_modelo, augment_modelo = especialista["classes"], cfg_esp.get("augment", False)
         st.info(especialista["descricao"])
-    if (not dom and perfil not in ("Brasil - fotos com poucos animais", "Rebanho de solo - detector ajustado")) or perfil == "Ajuste manual":
+    if (not dom and perfil not in ("brasil_poucos", "solo_ajustado", "solo_experimental")) or perfil == "manual":
         modo = st.selectbox("Como a imagem foi capturada?", ["inteira", "tiles"],
                             index=0 if modo == "inteira" else 1,
                             format_func=lambda x: "Foto de solo / imagem inteira" if x == "inteira" else "Drone vertical / recortes")
-    if perfil == "Ajuste manual":
+    if perfil == "manual":
         if modo == "inteira":
             imgsz = st.select_slider("Resolução de entrada", options=[640, 1024, 1280, 1536, 1920], value=imgsz if imgsz in [640, 1024, 1280, 1536, 1920] else 1024)
         iou = st.slider("Sobreposição permitida entre caixas (NMS)", 0.30, 0.90, iou, 0.05,
                         help="Valores altos preservam animais sobrepostos, mas também podem manter duplicações.")
-    legado_usado = especialista["config"].get("legado", False) if especialista else perfil == "Configuração validada" and m.get("versao_inferencia", 1) == 1
+    legado_usado = especialista["config"].get("legado", False) if especialista else perfil == "validado" and m.get("versao_inferencia", 1) == 1
     iou_exibido = 0.5 if modo == "tiles" and legado_usado else iou
     st.caption(f"{'Recortes' if modo == 'tiles' else 'Imagem inteira'} | entrada {tile_usado if modo == 'tiles' else imgsz} px | NMS {iou_exibido:.2f}")
     confirmacao_meta,usar_confirmacao = None,False
