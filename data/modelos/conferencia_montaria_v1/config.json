@@ -1,0 +1,14 @@
+{
+  "ativo": true,
+  "versao": 1,
+  "peso_clip": "data/modelos_candidatos/ViT-B-32.pt",
+  "sha_clip": "40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af",
+  "peso_pessoas": "data/modelos_candidatos/yolo11x.pt",
+  "sha_pessoas": "7bc158aa95c0ebfdd87f70f01653c1131b93e92522dbe15c228bcd742e773a24",
+  "receita_sha256": "bb39431cd1eda42de5af88c55b54c99ab53babbd731d8102638f4c09d390a0d2",
+  "limiar": 0.00882620906829834,
+  "pessoa_imgsz": 1280,
+  "pessoa_conf": 0.5,
+  "regra_geometrica": 1,
+  "evidencia": "data/experimentos/verificador_montaria_v4/resultado.json"
+}

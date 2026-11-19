@@ -1,0 +1,3371 @@
+[
+  {
+    "pageid": 9067983,
+    "titulo": "File:Leitevaca.JPG",
+    "autor": "Andrevruas",
+    "licenca": "CC BY 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Leitevaca.JPG",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Leitevaca.JPG/1920px-Leitevaca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Leitevaca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 2592,
+    "altura_original": 1944,
+    "descricao": "Milking next to the municipality of Ouro Preto, in Minas Gerais, Brazil.",
+    "categorias": "GFDL|Taken with Sony DSC-S700|License migration redundant|Milking machines|Self-published work|Cattle in Brazil|Milk in Brazil",
+    "data": "2010-01-24",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_9067983.jpg",
+    "bytes": 592315,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Andrevruas",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          102,
+          8,
+          446,
+          269
+        ]
+      ],
+      "nota": "1 bovino; balde e equipamento de ordenha excluídos.",
+      "coordenadas": "panel",
+      "painel": "treino_00"
+    },
+    "caixas_xyxy": [
+      [
+        371.84810126582283,
+        29.164556962025316,
+        1625.9240506329115,
+        980.6582278481014
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_9067983.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 9067739,
+    "titulo": "File:Vaca .JPG",
+    "autor": "Andrevruas",
+    "licenca": "CC BY 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Vaca_.JPG",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Vaca_.JPG/1920px-Vaca_.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vaca_.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 2592,
+    "altura_original": 1944,
+    "descricao": "One cow in Minas Gerais, Brazil.",
+    "categorias": "GFDL|Taken with Sony DSC-S700|Cows|License migration redundant|Self-published work|Cattle in Brazil|Thin cattle",
+    "data": "2010-01-24",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_9067739.jpg",
+    "bytes": 504472,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Andrevruas",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          15,
+          44,
+          510,
+          365
+        ],
+        [
+          286,
+          75,
+          527,
+          248
+        ]
+      ],
+      "nota": "2 bovinos: um em pé e outro deitado/oculto atrás à direita. Corrigidas caixas duplicadas no mesmo animal.",
+      "coordenadas": "panel",
+      "painel": "treino_00"
+    },
+    "caixas_xyxy": [
+      [
+        54.683544303797476,
+        160.40506329113924,
+        1859.240506329114,
+        1330.6329113924053
+      ],
+      [
+        1042.6329113924053,
+        273.4177215189874,
+        1920.0,
+        904.1012658227849
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_9067739.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 9854125,
+    "titulo": "File:Jungle cow.jpg",
+    "autor": "Z emlinki  from UK",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Jungle_cow.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Jungle_cow.jpg/1920px-Jungle_cow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jungle_cow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 2108,
+    "altura_original": 2000,
+    "descricao": "A cow along the Rio Negro in Brazil. Also a common sight in Colombia",
+    "categorias": "Taken with Nikon D50|Flickr images reviewed by FlickreviewR|Cattle in Brazil",
+    "data": "2006-09-17 12:56",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_9854125.jpg",
+    "bytes": 785087,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Z emlinki  from UK",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          78,
+          45,
+          299,
+          355
+        ],
+        [
+          0,
+          0,
+          99,
+          96
+        ]
+      ],
+      "nota": "2 bovinos: o segundo está parcialmente cortado no alto à esquerda.",
+      "coordenadas": "panel",
+      "painel": "manual_01"
+    },
+    "caixas_xyxy": [
+      [
+        359.7146494367449,
+        207.56962025316454,
+        1378.9061561741887,
+        1637.493670886076
+      ],
+      [
+        0.0,
+        0.0,
+        456.5609012081762,
+        442.8151898734177
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_9854125.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 9996097,
+    "titulo": "File:Bezerro em Andrelândia.jpg",
+    "autor": "Eduardo P",
+    "licenca": "Public domain",
+    "licenca_url": "",
+    "url": "https://commons.wikimedia.org/wiki/File:Bezerro_em_Andrel%C3%A2ndia.jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bezerro_em_Andrel%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bezerro_em_Andrel%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 1024,
+    "altura_original": 768,
+    "descricao": "A calf in the farm of Andrelândia, Minas Gerais, Brazil.",
+    "categorias": "Taken with BlackBerry Storm|Calves|Self-published work|PD-self|Cattle in Brazil|Fazenda Serra da Natureza|Files of animals by Eduardo P",
+    "data": "2010-04-03",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_9996097.jpg",
+    "bytes": 159801,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Eduardo P",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          64,
+          18,
+          507,
+          395
+        ]
+      ],
+      "nota": "1 bezerro.",
+      "coordenadas": "panel",
+      "painel": "manual_01"
+    },
+    "caixas_xyxy": [
+      [
+        124.4354430379747,
+        34.99746835443038,
+        985.7620253164557,
+        768.0
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_9996097.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 27655836,
+    "titulo": "File:Boi Nelore no sul do Brasil.jpg",
+    "autor": "Leonardo Felipe Rossini",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Boi_Nelore_no_sul_do_Brasil.jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Boi_Nelore_no_sul_do_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Boi_Nelore_no_sul_do_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 640,
+    "altura_original": 480,
+    "descricao": "Bovino de aproximadamente 300 kg",
+    "categorias": "Taken with Samsung Ch@t 222|Self-published work|Cattle in Brazil",
+    "data": "2012-12-02 13:24:21",
+    "query": "Nelore",
+    "arquivo": "wc_27655836.jpg",
+    "bytes": 147690,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Leonardo Felipe Rossini",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          177,
+          100,
+          367,
+          312
+        ],
+        [
+          457,
+          56,
+          514,
+          139
+        ],
+        [
+          414,
+          60,
+          448,
+          98
+        ],
+        [
+          319,
+          70,
+          341,
+          105
+        ],
+        [
+          392,
+          75,
+          411,
+          95
+        ]
+      ],
+      "nota": "5 bovinos; adicionado animal pequeno perdido pela pré-anotação.",
+      "coordenadas": "panel",
+      "painel": "treino_00"
+    },
+    "caixas_xyxy": [
+      [
+        215.08860759493672,
+        121.51898734177216,
+        445.97468354430384,
+        379.13924050632914
+      ],
+      [
+        555.3417721518988,
+        68.05063291139241,
+        624.6075949367089,
+        168.9113924050633
+      ],
+      [
+        503.0886075949367,
+        72.9113924050633,
+        544.4050632911393,
+        119.08860759493672
+      ],
+      [
+        387.6455696202532,
+        85.0632911392405,
+        414.37974683544303,
+        127.59493670886077
+      ],
+      [
+        476.3544303797469,
+        91.13924050632912,
+        499.4430379746836,
+        115.44303797468355
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_27655836.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 10003479,
+    "titulo": "File:Vaca em Andrelândia.jpg",
+    "autor": "Eduardo P",
+    "licenca": "Public domain",
+    "licenca_url": "",
+    "url": "https://commons.wikimedia.org/wiki/File:Vaca_em_Andrel%C3%A2ndia.jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vaca_em_Andrel%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vaca_em_Andrel%C3%A2ndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 640,
+    "altura_original": 480,
+    "descricao": "Photo of a cow.",
+    "categorias": "Taken with BlackBerry Storm|Cows|Self-published work|PD-self|Cattle in Brazil|Fazenda Serra da Natureza|Files of animals by Eduardo P",
+    "data": "2010-04-03",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_10003479.jpg",
+    "bytes": 49666,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Eduardo P",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          109,
+          158,
+          266,
+          311
+        ],
+        [
+          0,
+          177,
+          49,
+          236
+        ]
+      ],
+      "nota": "2 bovinos; o animal preto ao fundo está cortado na borda esquerda.",
+      "coordenadas": "panel",
+      "painel": "manual_01"
+    },
+    "caixas_xyxy": [
+      [
+        132.45569620253164,
+        192.0,
+        323.24050632911394,
+        377.9240506329114
+      ],
+      [
+        0.0,
+        215.08860759493672,
+        59.54430379746836,
+        286.7848101265823
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_10003479.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 12152984,
+    "titulo": "File:Rinder im Pantanal.JPG",
+    "autor": "Anagoria",
+    "licenca": "CC BY 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Rinder_im_Pantanal.JPG",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Rinder_im_Pantanal.JPG/1920px-Rinder_im_Pantanal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Rinder_im_Pantanal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 3648,
+    "altura_original": 2736,
+    "descricao": "Bovines in the Pantanal Reion, Brazil",
+    "categorias": "GFDL|Taken with Canon PowerShot A640|License migration redundant|Animals of the Pantanal|Self-published work|Cattle in Brazil|Files by User:anagoria",
+    "data": "2010-11-14",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_12152984.jpg",
+    "bytes": 500829,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Anagoria",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          78,
+          303,
+          562,
+          869
+        ],
+        [
+          571,
+          252,
+          835,
+          780
+        ],
+        [
+          685,
+          183,
+          1072,
+          562
+        ],
+        [
+          180,
+          184,
+          669,
+          545
+        ],
+        [
+          239,
+          52,
+          352,
+          219
+        ],
+        [
+          1230,
+          85,
+          1280,
+          255
+        ]
+      ],
+      "nota": "6 bovinos; inclui um animal truncado na borda direita e outro distante."
+    },
+    "caixas_xyxy": [
+      [
+        117.0,
+        454.5,
+        843.0,
+        1303.5
+      ],
+      [
+        856.5,
+        378.0,
+        1252.5,
+        1170.0
+      ],
+      [
+        1027.5,
+        274.5,
+        1608.0,
+        843.0
+      ],
+      [
+        270.0,
+        276.0,
+        1003.5,
+        817.5
+      ],
+      [
+        358.5,
+        78.0,
+        528.0,
+        328.5
+      ],
+      [
+        1845.0,
+        127.5,
+        1920.0,
+        382.5
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_12152984.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 40185388,
+    "titulo": "File:2013 02 Bonito D5100 226.jpg",
+    "autor": "Sergio Alexandre Korndorfer",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2013_02_Bonito_D5100_226.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2013_02_Bonito_D5100_226.jpg/1920px-2013_02_Bonito_D5100_226.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/2013_02_Bonito_D5100_226.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4928,
+    "altura_original": 3264,
+    "descricao": "Gado típico da região - Bonito - MS",
+    "categorias": "Bonito (Mato Grosso do Sul)|Self-published work|Cattle in Brazil|Images from Wiki Loves Earth 2015 in Brazil|Images from Wiki Loves Earth 2015|Obviously ineligible submissions for WLE 2015 in Brazil|Uploaded via Campaign:wle-br|Brazil photographs taken on 2013-02-26|Unidentified cattle|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|WLE 2015 in Brazil with bad file names",
+    "data": "26 February 2013, 15:59:50",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_40185388.jpg",
+    "bytes": 444997,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Sergio Alexandre Korndorfer",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          189,
+          0,
+          596,
+          395
+        ]
+      ],
+      "nota": "1 bovino truncado pelo enquadramento, com cabeça e tronco visíveis.",
+      "coordenadas": "panel",
+      "painel": "treino_00"
+    },
+    "caixas_xyxy": [
+      [
+        608.6278481012658,
+        0.0,
+        1919.2708860759494,
+        1272.0
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_40185388.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 27942860,
+    "titulo": "File:EXPOINTER 2013 10 Cattle.JPG",
+    "autor": "Eugenio Hansen, OFS",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:EXPOINTER_2013_10_Cattle.JPG",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/EXPOINTER_2013_10_Cattle.JPG/1920px-EXPOINTER_2013_10_Cattle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/EXPOINTER_2013_10_Cattle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4288,
+    "altura_original": 3216,
+    "descricao": "EXPOINTER 2013",
+    "categorias": "Taken with Fujifilm FinePix AV150|Self-published work|Cattle in Brazil|Expointer (2013)|Files by Eugenio Hansen",
+    "data": "2013-08-29 10:55:46",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_27942860.jpg",
+    "bytes": 594101,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Eugenio Hansen, OFS",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          60,
+          105,
+          417,
+          269
+        ],
+        [
+          108,
+          83,
+          212,
+          154
+        ],
+        [
+          0,
+          68,
+          126,
+          145
+        ],
+        [
+          0,
+          36,
+          68,
+          82
+        ]
+      ],
+      "nota": "4 bovinos em baias; removidas duplicações de cabeça/corpo e caixa espúria no chão.",
+      "coordenadas": "panel",
+      "painel": "treino_00"
+    },
+    "caixas_xyxy": [
+      [
+        218.7341772151899,
+        382.78481012658233,
+        1520.2025316455697,
+        980.6582278481014
+      ],
+      [
+        393.7215189873418,
+        302.5822784810126,
+        772.8607594936709,
+        561.4177215189874
+      ],
+      [
+        0.0,
+        247.8987341772152,
+        459.3417721518988,
+        528.6075949367089
+      ],
+      [
+        0.0,
+        131.2405063291139,
+        247.8987341772152,
+        298.9367088607595
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_27942860.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 27942861,
+    "titulo": "File:EXPOINTER 2013 11 Cattle.JPG",
+    "autor": "Eugenio Hansen, OFS",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:EXPOINTER_2013_11_Cattle.JPG",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/EXPOINTER_2013_11_Cattle.JPG/1920px-EXPOINTER_2013_11_Cattle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/0/01/EXPOINTER_2013_11_Cattle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4288,
+    "altura_original": 3216,
+    "descricao": "EXPOINTER 2013",
+    "categorias": "Taken with Fujifilm FinePix AV150|Self-published work|Cattle in Brazil|Expointer (2013)|Files by Eugenio Hansen",
+    "data": "2013-08-29 10:58:07",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_27942861.jpg",
+    "bytes": 515218,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Eugenio Hansen, OFS",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          47,
+          10,
+          403,
+          297
+        ],
+        [
+          0,
+          0,
+          183,
+          109
+        ],
+        [
+          478,
+          272,
+          527,
+          395
+        ]
+      ],
+      "nota": "3 bovinos deitados, com dois animais truncados pelas bordas.",
+      "coordenadas": "panel",
+      "painel": "treino_01"
+    },
+    "caixas_xyxy": [
+      [
+        171.34177215189874,
+        36.45569620253165,
+        1469.1645569620252,
+        1082.73417721519
+      ],
+      [
+        0.0,
+        0.0,
+        667.1392405063292,
+        397.36708860759495
+      ],
+      [
+        1742.5822784810127,
+        991.5949367088608,
+        1920.0,
+        1440.0
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_27942861.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 40243348,
+    "titulo": "File:Serra do Cruzeiro.jpg",
+    "autor": "Amante da natureza",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Serra_do_Cruzeiro.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Serra_do_Cruzeiro.jpg/1280px-Serra_do_Cruzeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Serra_do_Cruzeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 1536,
+    "altura_original": 2560,
+    "descricao": "Ao fundo a Serra do Cruzeiro em PIMENTA- MG",
+    "categorias": "Pimenta (Minas Gerais)|Self-published work|Cattle in Brazil|Images from Wiki Loves Earth 2015 in Brazil|Images from Wiki Loves Earth 2015|Uploaded via Campaign:wle-br|Brazil photographs taken on 2015-05-09|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Serra do Cruzeiro",
+    "data": "2015-05-09 16:55:01",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_40243348.jpg",
+    "bytes": 231514,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Amante da natureza",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          61,
+          173,
+          195,
+          244
+        ]
+      ],
+      "nota": "1 bovino em pasto com iluminação escura.",
+      "coordenadas": "panel",
+      "painel": "treino_01"
+    },
+    "caixas_xyxy": [
+      [
+        329.4514767932489,
+        934.1999999999999,
+        1053.1645569620252,
+        1317.6
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_40243348.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 48890227,
+    "titulo": "File:Vacas tomando sol em pedreira.jpg",
+    "autor": "Ohana Oliveira dos Santos",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Vacas_tomando_sol_em_pedreira.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Vacas_tomando_sol_em_pedreira.jpg/1920px-Vacas_tomando_sol_em_pedreira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Vacas_tomando_sol_em_pedreira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 3264,
+    "altura_original": 2448,
+    "descricao": "Vacas  no  descanso",
+    "categorias": "Self-published work|Cattle in Brazil|Uploaded via Campaign:wle-br|Images from Wiki Loves Earth 2016 in Brazil|Images from Wiki Loves Earth 2016|Brazil photographs taken on 2016-01-20|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation",
+    "data": "2016-01-20 12:24:47",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_48890227.jpg",
+    "bytes": 959838,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Ohana Oliveira dos Santos",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          56,
+          111,
+          140,
+          150
+        ],
+        [
+          17,
+          203,
+          110,
+          256
+        ],
+        [
+          216,
+          111,
+          288,
+          181
+        ],
+        [
+          256,
+          202,
+          356,
+          245
+        ],
+        [
+          598,
+          96,
+          696,
+          160
+        ],
+        [
+          683,
+          103,
+          789,
+          161
+        ],
+        [
+          695,
+          136,
+          784,
+          180
+        ],
+        [
+          1000,
+          136,
+          1088,
+          184
+        ],
+        [
+          1000,
+          159,
+          1097,
+          191
+        ],
+        [
+          1150,
+          92,
+          1241,
+          122
+        ],
+        [
+          1263,
+          65,
+          1356,
+          105
+        ],
+        [
+          1268,
+          106,
+          1361,
+          144
+        ],
+        [
+          1317,
+          117,
+          1400,
+          147
+        ]
+      ],
+      "coordenadas": "crop",
+      "crop": {
+        "x": 0,
+        "y": 480,
+        "scale": 1.25
+      },
+      "nota": "13 bovinos no pasto, incluindo animais deitados e sobrepostos. Pré-anotação tinha duplicações, corrigidas por inspeção ampliada."
+    },
+    "caixas_xyxy": [
+      [
+        67.19999999999999,
+        853.1999999999999,
+        168.0,
+        900.0
+      ],
+      [
+        20.4,
+        963.5999999999999,
+        132.0,
+        1027.1999999999998
+      ],
+      [
+        259.20000000000005,
+        853.1999999999999,
+        345.6,
+        937.1999999999999
+      ],
+      [
+        307.20000000000005,
+        962.4000000000001,
+        427.20000000000005,
+        1014.0
+      ],
+      [
+        717.5999999999999,
+        835.1999999999999,
+        835.1999999999999,
+        912.0
+      ],
+      [
+        819.5999999999999,
+        843.5999999999999,
+        946.8000000000001,
+        913.1999999999999
+      ],
+      [
+        834.0,
+        883.1999999999999,
+        940.8000000000001,
+        936.0
+      ],
+      [
+        1200.0,
+        883.1999999999999,
+        1305.6,
+        940.8000000000001
+      ],
+      [
+        1200.0,
+        910.8000000000001,
+        1316.4,
+        949.1999999999999
+      ],
+      [
+        1380.0,
+        830.4000000000001,
+        1489.1999999999998,
+        866.4000000000001
+      ],
+      [
+        1515.6,
+        798.0,
+        1627.1999999999998,
+        846.0
+      ],
+      [
+        1521.6,
+        847.1999999999999,
+        1633.1999999999998,
+        892.8000000000001
+      ],
+      [
+        1580.3999999999999,
+        860.4000000000001,
+        1680.0,
+        896.4000000000001
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_48890227.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 53852316,
+    "titulo": "File:Venha Ver (RN) - Sitio Bartolomeu - reses (clique na foto) - panoramio.jpg",
+    "autor": "Manoel Messias de So…",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Venha_Ver_(RN)_-_Sitio_Bartolomeu_-_reses_(clique_na_foto)_-_panoramio.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Venha_Ver_%28RN%29_-_Sitio_Bartolomeu_-_reses_%28clique_na_foto%29_-_panoramio.jpg/1920px-Venha_Ver_%28RN%29_-_Sitio_Bartolomeu_-_reses_%28clique_na_foto%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Venha_Ver_%28RN%29_-_Sitio_Bartolomeu_-_reses_%28clique_na_foto%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 3072,
+    "altura_original": 2304,
+    "descricao": "Venha Ver (RN) - Sitio Bartolomeu - reses (clique na foto)",
+    "categorias": "Venha-Ver|Panoramio files uploaded by Panoramio upload bot|Agriculture in Rio Grande do Norte|Cattle in Brazil|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Brazil photographs taken on 2007-06-23",
+    "data": "Taken on 23 June 2007",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_53852316.jpg",
+    "bytes": 546536,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Manoel Messias de So…",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          82,
+          430,
+          530,
+          953
+        ],
+        [
+          511,
+          410,
+          1185,
+          960
+        ],
+        [
+          881,
+          368,
+          1280,
+          696
+        ]
+      ],
+      "nota": "3 bovinos. O terceiro está parcialmente oculto atrás do animal preto da frente; conferido com contraste ampliado apenas para inspeção.",
+      "coordenadas": "review"
+    },
+    "caixas_xyxy": [
+      [
+        123.0,
+        645.0,
+        795.0,
+        1429.5
+      ],
+      [
+        766.5,
+        615.0,
+        1777.5,
+        1440.0
+      ],
+      [
+        1321.5,
+        552.0,
+        1920.0,
+        1044.0
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_53852316.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 51761167,
+    "titulo": "File:O boi - panoramio.jpg",
+    "autor": "Claudio Oliveira Lim…",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:O_boi_-_panoramio.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/O_boi_-_panoramio.jpg/1920px-O_boi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/O_boi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 3488,
+    "altura_original": 2616,
+    "descricao": "O boi",
+    "categorias": "Ipueiras (Ceará)|Panoramio files uploaded by Panoramio upload bot|Cattle in Brazil|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Animal husbandry in Ceará|Brazil photographs taken on 2008-12-27|Photos from Panoramio ID 632893",
+    "data": "Taken on 27 December 2008",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_51761167.jpg",
+    "bytes": 652744,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Claudio Oliveira Lim…",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          56,
+          69,
+          423,
+          349
+        ]
+      ],
+      "nota": "1 bovino; cabeça/corpo em uma só caixa.",
+      "coordenadas": "panel",
+      "painel": "treino_02"
+    },
+    "caixas_xyxy": [
+      [
+        204.15189873417722,
+        251.5443037974684,
+        1542.075949367089,
+        1272.3037974683546
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_51761167.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 58389520,
+    "titulo": "File:No rumo de Caridade (8365232196).jpg",
+    "autor": "Otávio Nogueira  from Fortaleza, BR",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:No_rumo_de_Caridade_(8365232196).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/No_rumo_de_Caridade_%288365232196%29.jpg/1920px-No_rumo_de_Caridade_%288365232196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/No_rumo_de_Caridade_%288365232196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 2047,
+    "altura_original": 1356,
+    "descricao": "No rumo de Caridade",
+    "categorias": "Tauá|Sertão|Flickr images reviewed by FlickreviewR|Cattle in Brazil|Animal husbandry in Ceará|Photographs by Otávio Nogueira",
+    "data": "2012-10-13 11:41",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_58389520.jpg",
+    "bytes": 1013201,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Otávio Nogueira  from Fortaleza, BR",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          0,
+          207,
+          353,
+          395
+        ],
+        [
+          79,
+          134,
+          204,
+          219
+        ],
+        [
+          197,
+          163,
+          255,
+          237
+        ],
+        [
+          307,
+          167,
+          425,
+          276
+        ]
+      ],
+      "nota": "4 bovinos identificáveis no primeiro e segundo planos.",
+      "coordenadas": "panel",
+      "painel": "manual_02"
+    },
+    "caixas_xyxy": [
+      [
+        0.0,
+        666.5924050632912,
+        1136.7493670886076,
+        1272.0
+      ],
+      [
+        254.39999999999998,
+        431.5139240506329,
+        656.9316455696203,
+        705.2354430379747
+      ],
+      [
+        634.3898734177216,
+        524.9012658227848,
+        821.1645569620252,
+        763.2
+      ],
+      [
+        988.6177215189873,
+        537.7822784810127,
+        1368.607594936709,
+        888.7898734177215
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_58389520.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 56296124,
+    "titulo": "File:Cidade do Rio Quente ao Fundo. Fazenda Três Barras Vinagre. - panoramio.jpg",
+    "autor": "Tiago Firmino Boaven…",
+    "licenca": "CC BY 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Cidade_do_Rio_Quente_ao_Fundo._Fazenda_Tr%C3%AAs_Barras_Vinagre._-_panoramio.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cidade_do_Rio_Quente_ao_Fundo._Fazenda_Tr%C3%AAs_Barras_Vinagre._-_panoramio.jpg/1920px-Cidade_do_Rio_Quente_ao_Fundo._Fazenda_Tr%C3%AAs_Barras_Vinagre._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cidade_do_Rio_Quente_ao_Fundo._Fazenda_Tr%C3%AAs_Barras_Vinagre._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4288,
+    "altura_original": 3216,
+    "descricao": "Cidade do Rio Quente ao Fundo. Fazenda Três Barras Vinagre.",
+    "categorias": "Morrinhos (Goiás)|Panoramio files uploaded by Panoramio upload bot|Cattle in Brazil|Panoramio images reviewed by trusted users|Photos from Panoramio|Pastures in Brazil|Files with coordinates missing SDC location of creation|Brazil photographs taken on 2013-03-26",
+    "data": "Taken on 26 March 2013",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_56296124.jpg",
+    "bytes": 937229,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Tiago Firmino Boaven…",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          169,
+          238,
+          228,
+          354
+        ],
+        [
+          405,
+          237,
+          513,
+          352
+        ]
+      ],
+      "nota": "2 bovinos no pasto.",
+      "coordenadas": "panel",
+      "painel": "treino_02"
+    },
+    "caixas_xyxy": [
+      [
+        616.1012658227849,
+        867.6455696202531,
+        831.1898734177215,
+        1290.5316455696202
+      ],
+      [
+        1476.4556962025317,
+        864.0,
+        1870.1772151898736,
+        1283.240506329114
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_56296124.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 74195719,
+    "titulo": "File:Jericoacoara, Brazil - Brasil, Ceará (38275626074).jpg",
+    "autor": "Jorge Brazilian  from Rio de Janeiro, Brazil",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Jericoacoara,_Brazil_-_Brasil,_Cear%C3%A1_(38275626074).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Jericoacoara%2C_Brazil_-_Brasil%2C_Cear%C3%A1_%2838275626074%29.jpg/1920px-Jericoacoara%2C_Brazil_-_Brasil%2C_Cear%C3%A1_%2838275626074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jericoacoara%2C_Brazil_-_Brasil%2C_Cear%C3%A1_%2838275626074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4160,
+    "altura_original": 2340,
+    "descricao": "Jericoacoara, Brazil - Brasil, Ceará",
+    "categorias": "Cattle in Brazil|Pastures in Brazil|Flickr images reviewed by FlickreviewR 2|Animals of Jijoca de Jericoacoara",
+    "data": "2017-07-31 15:39",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_74195719.jpg",
+    "bytes": 795426,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Jorge Brazilian  from Rio de Janeiro, Brazil",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          570,
+          307,
+          686,
+          378
+        ],
+        [
+          685,
+          308,
+          710,
+          322
+        ],
+        [
+          1008,
+          298,
+          1024,
+          309
+        ]
+      ],
+      "nota": "3 bovinos: um próximo e dois distantes (um deitado). Identificação conferida em recorte ampliado.",
+      "coordenadas": "review"
+    },
+    "caixas_xyxy": [
+      [
+        855.0,
+        460.5,
+        1029.0,
+        567.0
+      ],
+      [
+        1027.5,
+        462.0,
+        1065.0,
+        483.0
+      ],
+      [
+        1512.0,
+        447.0,
+        1536.0,
+        463.5
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_74195719.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 58672828,
+    "titulo": "File:Sertão Central - Pirangi - Ibaretama-CE 06.jpg",
+    "autor": "Clicerioneto",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sert%C3%A3o_Central_-_Pirangi_-_Ibaretama-CE_06.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Sert%C3%A3o_Central_-_Pirangi_-_Ibaretama-CE_06.jpg/1920px-Sert%C3%A3o_Central_-_Pirangi_-_Ibaretama-CE_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sert%C3%A3o_Central_-_Pirangi_-_Ibaretama-CE_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 3968,
+    "altura_original": 2232,
+    "descricao": "No fim de tarde, no sertão central do estado do Ceará, região do Pirangi, localizada no município de Ibaretama, o vaqueiro leva o seu rebanho para se alimentar.",
+    "categorias": "Sertão|Piranji (Ibaretama)|Self-published work|Cattle in Brazil|Uploaded via Campaign:wle-br|Files with coordinates missing SDC location of creation|Obviously ineligible submissions for Wiki Loves Earth 2017 in Brazil|Animal husbandry in Ceará|Brazil photographs taken on 2015-09-06",
+    "data": "2015-09-06 16:00:15",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_58672828.jpg",
+    "bytes": 594357,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Clicerioneto",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "recorte_original_xyxy": [
+      0,
+      520,
+      1920,
+      1080
+    ],
+    "anotacao": {
+      "caixas": [
+        [
+          0,
+          355,
+          115,
+          495
+        ],
+        [
+          52,
+          356,
+          300,
+          533
+        ],
+        [
+          30,
+          380,
+          276,
+          551
+        ],
+        [
+          235,
+          379,
+          397,
+          515
+        ],
+        [
+          429,
+          361,
+          595,
+          515
+        ],
+        [
+          510,
+          356,
+          623,
+          482
+        ],
+        [
+          613,
+          347,
+          742,
+          499
+        ],
+        [
+          725,
+          371,
+          789,
+          461
+        ],
+        [
+          777,
+          351,
+          878,
+          476
+        ],
+        [
+          831,
+          350,
+          881,
+          455
+        ],
+        [
+          869,
+          352,
+          944,
+          457
+        ],
+        [
+          935,
+          357,
+          976,
+          442
+        ],
+        [
+          962,
+          351,
+          1027,
+          445
+        ],
+        [
+          1056,
+          364,
+          1105,
+          427
+        ],
+        [
+          1090,
+          369,
+          1135,
+          419
+        ],
+        [
+          1105,
+          356,
+          1145,
+          409
+        ],
+        [
+          1128,
+          354,
+          1163,
+          405
+        ],
+        [
+          1142,
+          365,
+          1173,
+          404
+        ]
+      ],
+      "coordenadas": "review",
+      "recorte_supervisionado": [
+        0,
+        347,
+        1280,
+        720
+      ],
+      "nota": "18 bovinos identificados no primeiro plano; recorte exclui rebanho distante ambiguo. Dois bovinos marrons centrais, nao tres."
+    },
+    "caixas_xyxy": [
+      [
+        0.0,
+        12.5,
+        172.5,
+        222.5
+      ],
+      [
+        78.0,
+        14.0,
+        450.0,
+        279.5
+      ],
+      [
+        45.0,
+        50.0,
+        414.0,
+        306.5
+      ],
+      [
+        352.5,
+        48.5,
+        595.5,
+        252.5
+      ],
+      [
+        643.5,
+        21.5,
+        892.5,
+        252.5
+      ],
+      [
+        765.0,
+        14.0,
+        934.5,
+        203.0
+      ],
+      [
+        919.5,
+        0.5,
+        1113.0,
+        228.5
+      ],
+      [
+        1087.5,
+        36.5,
+        1183.5,
+        171.5
+      ],
+      [
+        1165.5,
+        6.5,
+        1317.0,
+        194.0
+      ],
+      [
+        1246.5,
+        5.0,
+        1321.5,
+        162.5
+      ],
+      [
+        1303.5,
+        8.0,
+        1416.0,
+        165.5
+      ],
+      [
+        1402.5,
+        15.5,
+        1464.0,
+        143.0
+      ],
+      [
+        1443.0,
+        6.5,
+        1540.5,
+        147.5
+      ],
+      [
+        1584.0,
+        26.0,
+        1657.5,
+        120.5
+      ],
+      [
+        1635.0,
+        33.5,
+        1702.5,
+        108.5
+      ],
+      [
+        1657.5,
+        14.0,
+        1717.5,
+        93.5
+      ],
+      [
+        1692.0,
+        11.0,
+        1744.5,
+        87.5
+      ],
+      [
+        1713.0,
+        27.5,
+        1759.5,
+        86.0
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_58672828_frente.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 70248877,
+    "titulo": "File:Gado pastando.jpg",
+    "autor": "Adriana Cezar",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gado_pastando.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Gado_pastando.jpg/1920px-Gado_pastando.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Gado_pastando.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 5996,
+    "altura_original": 3150,
+    "descricao": "Gado no pasto. Macae de Cima, Nova Friburgo, Rio de Janeiro",
+    "categorias": "Mammals of Rio de Janeiro (state)|Self-published work|Cattle in Brazil|Uploaded via Campaign:wle-br|Unidentified cattle|Brazil photographs taken on 2018-06-22|June 2018 in Rio de Janeiro (state)|Obviously ineligible submissions for Wiki Loves Earth 2018 in Brazil|Unidentified Bovinae of Brazil",
+    "data": "2018-06-22 13:05:18",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_70248877.jpg",
+    "bytes": 748132,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Adriana Cezar",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          20,
+          158,
+          307,
+          294
+        ],
+        [
+          133,
+          151,
+          204,
+          222
+        ],
+        [
+          232,
+          92,
+          417,
+          275
+        ],
+        [
+          350,
+          120,
+          588,
+          320
+        ]
+      ],
+      "nota": "4 bovinos; um tem apenas cabeça e parte do corpo visíveis atrás do animal deitado.",
+      "coordenadas": "panel",
+      "painel": "manual_00"
+    },
+    "caixas_xyxy": [
+      [
+        60.95238095238095,
+        481.2853133328616,
+        935.6190476190475,
+        895.5562159484894
+      ],
+      [
+        405.33333333333337,
+        459.96254628646903,
+        621.7142857142858,
+        676.2363263284511
+      ],
+      [
+        707.047619047619,
+        280.2420811811599,
+        1270.8571428571427,
+        837.6801339654237
+      ],
+      [
+        1066.6666666666665,
+        365.53314936673036,
+        1792.0,
+        974.7550649779475
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_70248877.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 59902594,
+    "titulo": "File:Mãe e Filha.jpg",
+    "autor": "Jrfurlan13",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:M%C3%A3e_e_Filha.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/M%C3%A3e_e_Filha.jpg/1920px-M%C3%A3e_e_Filha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/3/36/M%C3%A3e_e_Filha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4288,
+    "altura_original": 3216,
+    "descricao": "Vaca e Bezerro Santa Rita Passa Quatro SP.",
+    "categorias": "Self-published work|Cattle in Brazil|Uploaded via Campaign:wle-br|Obviously ineligible submissions for Wiki Loves Earth 2017 in Brazil|Brazil photographs taken on 2015-07-10",
+    "data": "2015-07-10 03:58:08",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_59902594.jpg",
+    "bytes": 1400603,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Jrfurlan13",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          122,
+          56,
+          421,
+          282
+        ],
+        [
+          166,
+          169,
+          332,
+          301
+        ]
+      ],
+      "nota": "Vaca e bezerro; caixas sobrepostas, dois indivíduos.",
+      "coordenadas": "panel",
+      "painel": "manual_00"
+    },
+    "caixas_xyxy": [
+      [
+        444.75949367088606,
+        204.15189873417722,
+        1534.7848101265822,
+        1028.0506329113923
+      ],
+      [
+        605.1645569620252,
+        616.1012658227849,
+        1210.3291139240505,
+        1097.3164556962026
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_59902594.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 89676299,
+    "titulo": "File:Brazilian beef tongue.jpg",
+    "autor": "Vcohen",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Brazilian_beef_tongue.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Brazilian_beef_tongue.jpg/1920px-Brazilian_beef_tongue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Brazilian_beef_tongue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4128,
+    "altura_original": 3096,
+    "descricao": "Brazilian beef tongue",
+    "categorias": "Beef tongue|Self-published work|Cattle in Brazil",
+    "data": "2020-05-01 20:12:10",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_89676299.jpg",
+    "bytes": 956907,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Vcohen",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [],
+      "nota": "Negativo real: carnes embaladas, nenhum bovino vivo. Removidas três falsas caixas do modelo.",
+      "coordenadas": "panel",
+      "painel": "treino_02"
+    },
+    "caixas_xyxy": [],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_89676299.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 90747881,
+    "titulo": "File:SC - IMGA0045.jpg",
+    "autor": "CasalMALY",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:SC_-_IMGA0045.jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/9/92/SC_-_IMGA0045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/92/SC_-_IMGA0045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 700,
+    "altura_original": 517,
+    "descricao": "Urubici é uma das cidades mais frias do Brasil e fica na serra de Santa Catarina. Visitamos todos os atrativos da região e postamos sobre eles em nosso Blog.\n Essa foto é da viagem realizada no Inverno de 2008\nConfira o relato completo e o SlideShow em nosso blog Vida de Viajante, na categoria [SC] Urubici\n \nFoto: Marcelo Maestrelli",
+    "categorias": "Taken with Panasonic NV-GS300|Urubici|Cattle in Brazil|Mammalia in right lateral aspect|Flickr images reviewed by FlickreviewR 2|Livestock in Santa Catarina",
+    "data": "2008-06-17 08:43:59",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_90747881.jpg",
+    "bytes": 230370,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_CasalMALY",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          148,
+          98,
+          352,
+          297
+        ]
+      ],
+      "nota": "1 bovino inteiro, apesar da marca d'água.",
+      "coordenadas": "panel",
+      "painel": "treino_02"
+    },
+    "caixas_xyxy": [
+      [
+        193.7113924050633,
+        128.26835443037976,
+        460.71898734177216,
+        388.7316455696203
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_90747881.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 120934387,
+    "titulo": "File:Gado bovino na lagoa nas dunas de Piaçabuçu.jpg",
+    "autor": "Cazeduardo",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gado_bovino_na_lagoa_nas_dunas_de_Pia%C3%A7abu%C3%A7u.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Gado_bovino_na_lagoa_nas_dunas_de_Pia%C3%A7abu%C3%A7u.jpg/1920px-Gado_bovino_na_lagoa_nas_dunas_de_Pia%C3%A7abu%C3%A7u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Gado_bovino_na_lagoa_nas_dunas_de_Pia%C3%A7abu%C3%A7u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 3888,
+    "altura_original": 2592,
+    "descricao": "Área de Proteção Ambiental de Piaçabuçu de nível Federal, localizado (a) em Feliz Deserto (AL), Piaçabuçu (AL))",
+    "categorias": "Área de Proteção Ambiental de Piaçabuçu|Self-published work|Cattle in Brazil|White cattle|Animals of Alagoas|Uploaded via Campaign:wle-br|Brazil photographs taken on 2021-08-28|Images from Wiki Loves Earth 2022|Images from Wiki Loves Earth 2022 in Brazil|Images from Wiki Loves Earth 2022 in Brazil - Alagoas|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth missing SDC inception|Cattle in water|Images from Wiki Loves Earth with different SDC participant in|Bos indicus",
+    "data": "2021-08-28 10:09:37",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_120934387.jpg",
+    "bytes": 646657,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Cazeduardo",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          239,
+          111,
+          456,
+          259
+        ]
+      ],
+      "nota": "1 bovino na água.",
+      "coordenadas": "panel",
+      "painel": "manual_00"
+    },
+    "caixas_xyxy": [
+      [
+        774.1784810126583,
+        359.69620253164555,
+        1477.093670886076,
+        839.2911392405063
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_120934387.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 92661251,
+    "titulo": "File:Nossa riqueza.jpg",
+    "autor": "Geferson Borges",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Nossa_riqueza.jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nossa_riqueza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nossa_riqueza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 960,
+    "altura_original": 722,
+    "descricao": "Área de Proteção Ambiental do Itapiracó de nível Estadual, localizado (a) em São José de Ribamar (MA), São Luís (MA)",
+    "categorias": "Self-published work|Cattle in Brazil|Unidentified trees in Brazil|Uploaded via Campaign:wle-br|Images from Wiki Loves Earth 2020|Images from Wiki Loves Earth 2020 in Brazil|Images from Wiki Loves Earth 2020 in Brazil - Maranhão|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth missing SDC inception",
+    "data": "06032017",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_92661251.jpg",
+    "bytes": 455047,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Geferson Borges",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          80,
+          194,
+          228,
+          299
+        ]
+      ],
+      "nota": "1 bovino à beira da água.",
+      "coordenadas": "panel",
+      "painel": "manual_00"
+    },
+    "caixas_xyxy": [
+      [
+        146.22784810126583,
+        354.6025316455696,
+        416.7493670886076,
+        546.526582278481
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_92661251.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 121792085,
+    "titulo": "File:Estação Ecológica de Carijós de nível Federal Fidel Urdaneta (1).jpg",
+    "autor": "Fidelurd",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Esta%C3%A7%C3%A3o_Ecol%C3%B3gica_de_Carij%C3%B3s_de_n%C3%ADvel_Federal_Fidel_Urdaneta_(1).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Esta%C3%A7%C3%A3o_Ecol%C3%B3gica_de_Carij%C3%B3s_de_n%C3%ADvel_Federal_Fidel_Urdaneta_%281%29.jpg/1920px-Esta%C3%A7%C3%A3o_Ecol%C3%B3gica_de_Carij%C3%B3s_de_n%C3%ADvel_Federal_Fidel_Urdaneta_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esta%C3%A7%C3%A3o_Ecol%C3%B3gica_de_Carij%C3%B3s_de_n%C3%ADvel_Federal_Fidel_Urdaneta_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4608,
+    "altura_original": 3456,
+    "descricao": "Estação Ecológica de Carijós de nível Federal, localizado (a) em Florianópolis (SC)",
+    "categorias": "Mammals of Santa Catarina|Self-published work|Cattle in Brazil|White cattle|Cattle heads|Uploaded via Campaign:wle-br|Animals of Florianópolis|Images from Wiki Loves Earth 2022|Images from Wiki Loves Earth 2022 in Brazil|Brazil photographs taken on 2022-08-11|Images from Wiki Loves Earth 2022 in Brazil - Santa Catarina|Ecological Stations in Santa Catarina|Estação Ecológica de Carijós|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Social behavior of cattle|Bos indicus",
+    "data": "2022-08-11 11:00:41",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_121792085.jpg",
+    "bytes": 820539,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_Fidelurd",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          0,
+          0,
+          354,
+          395
+        ],
+        [
+          202,
+          98,
+          491,
+          395
+        ]
+      ],
+      "nota": "2 bovinos com grande sobreposição; excluídas múltiplas caixas redundantes no rosto do mesmo animal.",
+      "coordenadas": "panel",
+      "painel": "treino_03"
+    },
+    "caixas_xyxy": [
+      [
+        0.0,
+        0.0,
+        1290.5316455696202,
+        1440.0
+      ],
+      [
+        736.4050632911392,
+        357.26582278481015,
+        1789.9746835443038,
+        1440.0
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_121792085.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 127564840,
+    "titulo": "File:Pau dos Ferros (249378472).jpg",
+    "autor": "Allan Patrick  from Natal, Brasil",
+    "licenca": "CC BY-SA 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pau_dos_Ferros_(249378472).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Pau_dos_Ferros_%28249378472%29.jpg/1920px-Pau_dos_Ferros_%28249378472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pau_dos_Ferros_%28249378472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 2272,
+    "altura_original": 1704,
+    "descricao": "Primeiro dia de viagem: apenas havia deixado o núcleo urbano de Pau dos Ferros e me deparei com uma boiada na estrada. Ao menos estava bem sinalizada (e, a propósito, a criação estava bem sadia!). Não é por nada que o nome do município tem origem na &lt;a href=\" http://www.rn.gov.br/principal/cidades.asp?descricao=PAU  DOS FERROS\"&gt;pecuária.&lt;/a&gt;",
+    "categorias": "Pau dos Ferros|Cattle on roads|Agriculture in Rio Grande do Norte|Cattle in Brazil|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Allan Patrick",
+    "data": "2006-09-20 10:32",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_127564840.jpg",
+    "bytes": 397164,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Allan Patrick  from Natal, Brasil",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          500,
+          429,
+          879,
+          757
+        ],
+        [
+          388,
+          457,
+          601,
+          655
+        ],
+        [
+          581,
+          458,
+          765,
+          667
+        ]
+      ],
+      "nota": "3 bovinos. O terceiro aparece pelas pontas dos chifres e partes de corpo/pernas atrás do animal frontal; cavalo e cavaleiro não entram.",
+      "coordenadas": "review"
+    },
+    "caixas_xyxy": [
+      [
+        750.0,
+        643.5,
+        1318.5,
+        1135.5
+      ],
+      [
+        582.0,
+        685.5,
+        901.5,
+        982.5
+      ],
+      [
+        871.5,
+        687.0,
+        1147.5,
+        1000.5
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_127564840.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 160146460,
+    "titulo": "File:Instituto de Zootecnia - Centro Bovinos de Corte (54314557460).jpg",
+    "autor": "agriculturasp",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_(54314557460).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854314557460%29.jpg/1920px-Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854314557460%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854314557460%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 6000,
+    "altura_original": 4000,
+    "descricao": "Instituto de Zootecnia - Centro Bovinos de Corte. Data: 07/02/2025 Local: Sertãozinho - SP Foto: Gilberto Marques / Secretaria da Agricultura do Estado de SP",
+    "categorias": "Calves|Red cattle|Mammals of São Paulo (state)|Cattle in Brazil|Standing animals|White cattle|Flickr images reviewed by FlickreviewR 2|Unidentified cattle|2025 in São Paulo (state)|Many cattle|Brazil photographs taken on 2025-02-07|Cattle looking at viewer|Front views of cattle|Groups of baby animals|Groups of cattle|Bos indicus|Centro Bovinos de Corte",
+    "data": "2025-02-07 09:29",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_160146460.jpg",
+    "bytes": 955785,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_agriculturasp",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          289,
+          590,
+          417,
+          797
+        ],
+        [
+          390,
+          561,
+          536,
+          786
+        ],
+        [
+          475,
+          590,
+          577,
+          733
+        ],
+        [
+          559,
+          575,
+          649,
+          787
+        ],
+        [
+          555,
+          538,
+          690,
+          744
+        ],
+        [
+          679,
+          533,
+          852,
+          681
+        ],
+        [
+          679,
+          581,
+          919,
+          763
+        ],
+        [
+          864,
+          555,
+          1029,
+          709
+        ],
+        [
+          889,
+          598,
+          1017,
+          737
+        ],
+        [
+          974,
+          556,
+          1150,
+          741
+        ],
+        [
+          365,
+          557,
+          431,
+          609
+        ],
+        [
+          552,
+          539,
+          618,
+          595
+        ]
+      ],
+      "coordenadas": "review",
+      "nota": "12 bovinos individualizáveis; inclui cabeças de animais ocultos na segunda fila. Removidas sobreposições redundantes da pré-anotação."
+    },
+    "caixas_xyxy": [
+      [
+        433.5,
+        885.3458382180539,
+        625.5,
+        1195.9671746776085
+      ],
+      [
+        585.0,
+        841.8288393903869,
+        804.0,
+        1179.4607268464244
+      ],
+      [
+        712.5,
+        885.3458382180539,
+        865.5,
+        1099.9296600234466
+      ],
+      [
+        838.5,
+        862.8370457209847,
+        973.5,
+        1180.9613130128957
+      ],
+      [
+        832.5,
+        807.3153575615474,
+        1035.0,
+        1116.4361078546308
+      ],
+      [
+        1018.5,
+        799.8124267291911,
+        1278.0,
+        1021.8991793669402
+      ],
+      [
+        1018.5,
+        871.8405627198124,
+        1378.5,
+        1144.947245017585
+      ],
+      [
+        1296.0,
+        832.8253223915592,
+        1543.5,
+        1063.915592028136
+      ],
+      [
+        1333.5,
+        897.3505275498242,
+        1525.5,
+        1105.9320046893317
+      ],
+      [
+        1461.0,
+        834.3259085580305,
+        1725.0,
+        1111.934349355217
+      ],
+      [
+        547.5,
+        835.8264947245018,
+        646.5,
+        913.8569753810082
+      ],
+      [
+        828.0,
+        808.8159437280187,
+        927.0,
+        892.8487690504103
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_160146460.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 160146421,
+    "titulo": "File:Instituto de Zootecnia - Centro Bovinos de Corte (54314375358).jpg",
+    "autor": "agriculturasp",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_(54314375358).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854314375358%29.jpg/1920px-Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854314375358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854314375358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 6000,
+    "altura_original": 4000,
+    "descricao": "Instituto de Zootecnia - Centro Bovinos de Corte. Data: 07/02/2025 Local: Sertãozinho - SP Foto: Gilberto Marques / Secretaria da Agricultura do Estado de SP",
+    "categorias": "Bulls|Red cattle|Mammals of São Paulo (state)|Cattle in Brazil|Mammalia in right lateral aspect|Flickr images reviewed by FlickreviewR 2|Unidentified cattle|2025 in São Paulo (state)|1 male organism|1 cattle|Walking cattle|Brazil photographs taken on 2025-02-07|Front three-quarter views of animals|Cattle looking at viewer|Front views of cattle|Centro Bovinos de Corte",
+    "data": "2025-02-07 10:42",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_160146421.jpg",
+    "bytes": 879022,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_agriculturasp",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          158,
+          113,
+          354,
+          355
+        ]
+      ],
+      "nota": "1 bovino em movimento.",
+      "coordenadas": "panel",
+      "painel": "treino_03"
+    },
+    "caixas_xyxy": [
+      [
+        511.79999999999995,
+        366.17721518987344,
+        1146.6911392405063,
+        1150.379746835443
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_160146421.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 160146461,
+    "titulo": "File:Instituto de Zootecnia - Centro Bovinos de Corte (54313249377).jpg",
+    "autor": "agriculturasp",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_(54313249377).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249377%29.jpg/1920px-Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249377%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249377%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 6000,
+    "altura_original": 4000,
+    "descricao": "Instituto de Zootecnia - Centro Bovinos de Corte. Data: 07/02/2025 Local: Sertãozinho - SP Foto: Gilberto Marques / Secretaria da Agricultura do Estado de SP",
+    "categorias": "Calves|Mammals of São Paulo (state)|Cattle in Brazil|Standing animals|White cattle|Flickr images reviewed by FlickreviewR 2|Unidentified cattle|2025 in São Paulo (state)|Many cattle|Brazil photographs taken on 2025-02-07|Front views of cattle|Groups of baby animals|Groups of cattle|Bos indicus|Centro Bovinos de Corte",
+    "data": "2025-02-07 09:28",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_160146461.jpg",
+    "bytes": 760510,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_agriculturasp",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          0,
+          365,
+          159,
+          698
+        ],
+        [
+          18,
+          366,
+          416,
+          698
+        ],
+        [
+          361,
+          338,
+          502,
+          707
+        ],
+        [
+          408,
+          369,
+          681,
+          721
+        ],
+        [
+          611,
+          385,
+          772,
+          757
+        ],
+        [
+          711,
+          418,
+          823,
+          735
+        ],
+        [
+          755,
+          454,
+          922,
+          746
+        ],
+        [
+          753,
+          347,
+          1146,
+          791
+        ],
+        [
+          944,
+          371,
+          1280,
+          751
+        ]
+      ],
+      "coordenadas": "review",
+      "nota": "9 bovinos distinguíveis; partes de animais ocultos agrupadas por indivíduo, sem duplicar cabeça e corpo."
+    },
+    "caixas_xyxy": [
+      [
+        0.0,
+        547.7139507620165,
+        238.5,
+        1047.409144196952
+      ],
+      [
+        27.0,
+        549.2145369284877,
+        624.0,
+        1047.409144196952
+      ],
+      [
+        541.5,
+        507.1981242672919,
+        753.0,
+        1060.9144196951934
+      ],
+      [
+        612.0,
+        553.7162954279015,
+        1021.5,
+        1081.9226260257913
+      ],
+      [
+        916.5,
+        577.725674091442,
+        1158.0,
+        1135.9437280187574
+      ],
+      [
+        1066.5,
+        627.2450175849941,
+        1234.5,
+        1102.9308323563891
+      ],
+      [
+        1132.5,
+        681.2661195779601,
+        1383.0,
+        1119.4372801875734
+      ],
+      [
+        1129.5,
+        520.7033997655334,
+        1719.0,
+        1186.9636576787807
+      ],
+      [
+        1416.0,
+        556.7174677608441,
+        1920.0,
+        1126.9402110199296
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_160146461.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 160146558,
+    "titulo": "File:Instituto de Zootecnia - Centro Bovinos de Corte (54313249057).jpg",
+    "autor": "agriculturasp",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_(54313249057).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249057%29.jpg/1920px-Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249057%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249057%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 6000,
+    "altura_original": 4000,
+    "descricao": "Instituto de Zootecnia - Centro Bovinos de Corte. Data: 07/02/2025 Local: Sertãozinho - SP Foto: Gilberto Marques / Secretaria da Agricultura do Estado de SP",
+    "categorias": "Bulls|Mammals of São Paulo (state)|Cattle in Brazil|Standing animals|Gray cattle|Flickr images reviewed by FlickreviewR 2|Unidentified cattle|2025 in São Paulo (state)|2 male organisms|2 cattle|Brazil photographs taken on 2025-02-07|Cattle facing left|Cattle looking at viewer|Centro Bovinos de Corte|Male Bos indicus",
+    "data": "2025-02-07 10:41",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_160146558.jpg",
+    "bytes": 504887,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_agriculturasp",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          86,
+          63,
+          483,
+          393
+        ],
+        [
+          68,
+          217,
+          200,
+          391
+        ]
+      ],
+      "nota": "2 bovinos no cocho; animal menor separado da caixa do maior.",
+      "coordenadas": "panel",
+      "painel": "treino_03"
+    },
+    "caixas_xyxy": [
+      [
+        278.5746835443038,
+        204.15189873417722,
+        1564.5531645569622,
+        1273.5189873417721
+      ],
+      [
+        220.26835443037976,
+        703.1898734177215,
+        647.8481012658228,
+        1267.0379746835445
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_160146558.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 160146614,
+    "titulo": "File:Instituto de Zootecnia - Centro Bovinos de Corte (54313249092).jpg",
+    "autor": "agriculturasp",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_(54313249092).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249092%29.jpg/1920px-Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 6000,
+    "altura_original": 4000,
+    "descricao": "Instituto de Zootecnia - Centro Bovinos de Corte. Data: 07/02/2025 Local: Sertãozinho - SP Foto: Gilberto Marques / Secretaria da Agricultura do Estado de SP",
+    "categorias": "Bulls|Feeding troughs|Mammals of São Paulo (state)|Cattle in Brazil|Standing animals|Gray cattle|Flickr images reviewed by FlickreviewR 2|Unidentified cattle|2025 in São Paulo (state)|2 male organisms|2 cattle|Brazil photographs taken on 2025-02-07|Cattle eating|Cattle facing left|Centro Bovinos de Corte|Male Bos indicus",
+    "data": "2025-02-07 10:40",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_160146614.jpg",
+    "bytes": 691227,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_agriculturasp",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          263,
+          92,
+          519,
+          267
+        ],
+        [
+          456,
+          112,
+          544,
+          258
+        ]
+      ],
+      "nota": "2 bovinos no cocho, o de trás parcialmente oculto.",
+      "coordenadas": "panel",
+      "painel": "treino_03"
+    },
+    "caixas_xyxy": [
+      [
+        851.920253164557,
+        298.126582278481,
+        1681.1658227848102,
+        865.2151898734178
+      ],
+      [
+        1477.093670886076,
+        362.9367088607595,
+        1762.146835443038,
+        836.0506329113924
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_160146614.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 160146606,
+    "titulo": "File:Instituto de Zootecnia - Centro Bovinos de Corte (54313248987).jpg",
+    "autor": "agriculturasp",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_(54313248987).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313248987%29.jpg/1920px-Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313248987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313248987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 6000,
+    "altura_original": 4000,
+    "descricao": "Instituto de Zootecnia - Centro Bovinos de Corte. Data: 07/02/2025 Local: Sertãozinho - SP Foto: Gilberto Marques / Secretaria da Agricultura do Estado de SP",
+    "categorias": "Bulls|Red cattle|Mammals of São Paulo (state)|Cattle in Brazil|Flickr images reviewed by FlickreviewR 2|Unidentified cattle|2025 in São Paulo (state)|1 male organism|1 cattle|Walking cattle|Brazil photographs taken on 2025-02-07|Cattle looking at viewer|Front views of cattle|Centro Bovinos de Corte",
+    "data": "2025-02-07 10:41",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_160146606.jpg",
+    "bytes": 924199,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_agriculturasp",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          226,
+          115,
+          373,
+          365
+        ]
+      ],
+      "nota": "1 bovino.",
+      "coordenadas": "panel",
+      "painel": "treino_04"
+    },
+    "caixas_xyxy": [
+      [
+        732.0683544303797,
+        372.65822784810126,
+        1208.2367088607593,
+        1182.7848101265824
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_160146606.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 160146698,
+    "titulo": "File:Instituto de Zootecnia - Centro Bovinos de Corte (54313249032).jpg",
+    "autor": "agriculturasp",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_(54313249032).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249032%29.jpg/1920px-Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Instituto_de_Zootecnia_-_Centro_Bovinos_de_Corte_%2854313249032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 6000,
+    "altura_original": 4000,
+    "descricao": "Instituto de Zootecnia - Centro Bovinos de Corte. Data: 07/02/2025 Local: Sertãozinho - SP Foto: Gilberto Marques / Secretaria da Agricultura do Estado de SP",
+    "categorias": "Bulls|Red cattle|Mammals of São Paulo (state)|Cattle in Brazil|Standing animals|Flickr images reviewed by FlickreviewR 2|Unidentified cattle|2025 in São Paulo (state)|1 male organism|1 cattle|Brazil photographs taken on 2025-02-07|Cattle facing left|Cattle looking at viewer|Centro Bovinos de Corte",
+    "data": "2025-02-07 10:41",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_160146698.jpg",
+    "bytes": 844426,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_agriculturasp",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          162,
+          146,
+          452,
+          369
+        ]
+      ],
+      "nota": "1 bovino em vista lateral.",
+      "coordenadas": "panel",
+      "painel": "treino_04"
+    },
+    "caixas_xyxy": [
+      [
+        524.7569620253164,
+        473.11392405063293,
+        1464.1367088607594,
+        1195.746835443038
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_160146698.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 120934388,
+    "titulo": "File:Gado bovino na lagoa nas dunas de Piaçabuçu, em área particular, que é atravessada para se ter acesso à reserva ambiental das dunas.jpg",
+    "autor": "Cazeduardo",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gado_bovino_na_lagoa_nas_dunas_de_Pia%C3%A7abu%C3%A7u,_em_%C3%A1rea_particular,_que_%C3%A9_atravessada_para_se_ter_acesso_%C3%A0_reserva_ambiental_das_dunas.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Gado_bovino_na_lagoa_nas_dunas_de_Pia%C3%A7abu%C3%A7u%2C_em_%C3%A1rea_particular%2C_que_%C3%A9_atravessada_para_se_ter_acesso_%C3%A0_reserva_ambiental_das_dunas.jpg/1920px-Gado_bovino_na_lagoa_nas_dunas_de_Pia%C3%A7abu%C3%A7u%2C_em_%C3%A1rea_particular%2C_que_%C3%A9_atravessada_para_se_ter_acesso_%C3%A0_reserva_ambiental_das_dunas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gado_bovino_na_lagoa_nas_dunas_de_Pia%C3%A7abu%C3%A7u%2C_em_%C3%A1rea_particular%2C_que_%C3%A9_atravessada_para_se_ter_acesso_%C3%A0_reserva_ambiental_das_dunas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 3193,
+    "altura_original": 1907,
+    "descricao": "Área de Proteção Ambiental de Piaçabuçu de nível Federal, localizado (a) em Feliz Deserto (AL), Piaçabuçu (AL))",
+    "categorias": "Área de Proteção Ambiental de Piaçabuçu|Self-published work|Cattle in Brazil|White cattle|Animals of Alagoas|Cattle herds|Uploaded via Campaign:wle-br|Brazil photographs taken on 2021-08-28|Images from Wiki Loves Earth 2022|Images from Wiki Loves Earth 2022 in Brazil|Images from Wiki Loves Earth 2022 in Brazil - Alagoas|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth missing SDC inception|Cattle in water|Images from Wiki Loves Earth with different SDC participant in|Bos indicus",
+    "data": "2021-08-28 10:09:48",
+    "query": "incategory:\"Cattle herds\" Brazil",
+    "arquivo": "wc_120934388.jpg",
+    "bytes": 512336,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Cazeduardo",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          100,
+          137,
+          138,
+          171
+        ],
+        [
+          221,
+          161,
+          255,
+          205
+        ],
+        [
+          465,
+          162,
+          505,
+          210
+        ]
+      ],
+      "nota": "3 bovinos na água; as pequenas manchas brancas ao fundo são aves e não entram.",
+      "coordenadas": "panel",
+      "painel": "manual_01"
+    },
+    "caixas_xyxy": [
+      [
+        304.76190476190476,
+        417.34188193796035,
+        420.5714285714286,
+        520.9157796451914
+      ],
+      [
+        673.5238095238095,
+        490.4528685548293,
+        777.1428571428571,
+        624.4896773524224
+      ],
+      [
+        1417.1428571428573,
+        493.49915966386556,
+        1539.047619047619,
+        639.7211328976035
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_120934388.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 58371216,
+    "titulo": "File:Urubici- Rio dos Bugres (16254490918).jpg",
+    "autor": "Otávio Nogueira  from Fortaleza, BR",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Urubici-_Rio_dos_Bugres_(16254490918).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Urubici-_Rio_dos_Bugres_%2816254490918%29.jpg/1920px-Urubici-_Rio_dos_Bugres_%2816254490918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Urubici-_Rio_dos_Bugres_%2816254490918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4928,
+    "altura_original": 3264,
+    "descricao": "Urubici: Rio dos Bugres",
+    "categorias": "Mammals of Santa Catarina|Flickr images reviewed by FlickreviewR|Cattle in Brazil|Cattle herds|Livestock in Santa Catarina|Photographs by Otávio Nogueira|Lying cattle|Yellow cattle|Animals of São Joaquim National Park|Rio dos Bugres|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+    "data": "2015-01-16 11:58",
+    "query": "incategory:\"Cattle herds\" Brazil",
+    "arquivo": "wc_58371216.jpg",
+    "bytes": 757879,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Otávio Nogueira  from Fortaleza, BR",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          39,
+          129,
+          383,
+          267
+        ],
+        [
+          375,
+          54,
+          539,
+          239
+        ],
+        [
+          190,
+          229,
+          553,
+          394
+        ]
+      ],
+      "nota": "3 bovinos, dois deitados e um em pé.",
+      "coordenadas": "panel",
+      "painel": "manual_02"
+    },
+    "caixas_xyxy": [
+      [
+        125.58987341772152,
+        415.41265822784817,
+        1233.3569620253165,
+        859.8075949367089
+      ],
+      [
+        1207.5949367088608,
+        173.89367088607597,
+        1735.7164556962025,
+        769.640506329114
+      ],
+      [
+        611.8481012658228,
+        737.4379746835443,
+        1780.8000000000002,
+        1268.7797468354431
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_58371216.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 54346635,
+    "titulo": "File:Gado Nelore em atenção - panoramio.jpg",
+    "autor": "Boris Karpuk",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gado_Nelore_em_aten%C3%A7%C3%A3o_-_panoramio.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Gado_Nelore_em_aten%C3%A7%C3%A3o_-_panoramio.jpg/1920px-Gado_Nelore_em_aten%C3%A7%C3%A3o_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gado_Nelore_em_aten%C3%A7%C3%A3o_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 2560,
+    "altura_original": 1920,
+    "descricao": "Gado Nelore em atenção!",
+    "categorias": "Registro|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Brazil photographs taken on 2011-12-11|Photos from Panoramio ID 3320358",
+    "data": "Taken on 11 December 2011",
+    "query": "Nelore",
+    "arquivo": "wc_54346635.jpg",
+    "bytes": 1242696,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_Boris Karpuk",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          29,
+          374,
+          144,
+          552
+        ],
+        [
+          193,
+          384,
+          402,
+          553
+        ],
+        [
+          186,
+          428,
+          307,
+          557
+        ],
+        [
+          426,
+          382,
+          549,
+          560
+        ],
+        [
+          569,
+          386,
+          727,
+          565
+        ],
+        [
+          708,
+          458,
+          841,
+          670
+        ],
+        [
+          806,
+          426,
+          960,
+          610
+        ],
+        [
+          943,
+          428,
+          1153,
+          604
+        ],
+        [
+          1113,
+          503,
+          1206,
+          608
+        ],
+        [
+          1048,
+          580,
+          1149,
+          622
+        ]
+      ],
+      "nota": "10 bovinos, incluindo bezerro pequeno deitado parcialmente oculto no capim à direita; inspecionado em recorte ampliado.",
+      "coordenadas": "review"
+    },
+    "caixas_xyxy": [
+      [
+        43.5,
+        561.0,
+        216.0,
+        828.0
+      ],
+      [
+        289.5,
+        576.0,
+        603.0,
+        829.5
+      ],
+      [
+        279.0,
+        642.0,
+        460.5,
+        835.5
+      ],
+      [
+        639.0,
+        573.0,
+        823.5,
+        840.0
+      ],
+      [
+        853.5,
+        579.0,
+        1090.5,
+        847.5
+      ],
+      [
+        1062.0,
+        687.0,
+        1261.5,
+        1005.0
+      ],
+      [
+        1209.0,
+        639.0,
+        1440.0,
+        915.0
+      ],
+      [
+        1414.5,
+        642.0,
+        1729.5,
+        906.0
+      ],
+      [
+        1669.5,
+        754.5,
+        1809.0,
+        912.0
+      ],
+      [
+        1572.0,
+        870.0,
+        1723.5,
+        933.0
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_54346635.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 161018613,
+    "titulo": "File:Nelore.jpg",
+    "autor": "Oleg Yunakov",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Nelore.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Nelore.jpg/1920px-Nelore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Nelore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4032,
+    "altura_original": 3024,
+    "descricao": "Nelore",
+    "categorias": "Nelore|Self-published work|Files with coordinates missing SDC location of creation",
+    "data": "2024-12-25 10:47:44",
+    "query": "Nelore",
+    "arquivo": "wc_161018613.jpg",
+    "bytes": 820667,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Oleg Yunakov",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          96,
+          58,
+          431,
+          347
+        ]
+      ],
+      "nota": "1 bovino; pessoa não entra.",
+      "coordenadas": "panel",
+      "painel": "manual_02"
+    },
+    "caixas_xyxy": [
+      [
+        349.97468354430384,
+        211.44303797468356,
+        1571.240506329114,
+        1265.012658227848
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_161018613.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 161018609,
+    "titulo": "File:Nelore bull.jpg",
+    "autor": "Oleg Yunakov",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Nelore_bull.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Nelore_bull.jpg/1920px-Nelore_bull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nelore_bull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4032,
+    "altura_original": 3024,
+    "descricao": "Nelore bull",
+    "categorias": "Nelore|Self-published work|Men at work in Brazil|Files with coordinates missing SDC location of creation|Bulls in hand",
+    "data": "2024-12-25 10:47:26",
+    "query": "Nelore",
+    "arquivo": "wc_161018609.jpg",
+    "bytes": 965901,
+    "status": "completa",
+    "conjunto": "val",
+    "grupo": "autor_Oleg Yunakov",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          213,
+          117,
+          500,
+          322
+        ]
+      ],
+      "nota": "1 bovino; pessoa não entra.",
+      "coordenadas": "panel",
+      "painel": "manual_02"
+    },
+    "caixas_xyxy": [
+      [
+        776.506329113924,
+        426.5316455696203,
+        1822.7848101265824,
+        1173.8734177215192
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_161018609.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 79272994,
+    "titulo": "File:Bridge under construction on Penna river near Nellore (May 2019) 1.jpg",
+    "autor": "IM3847",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bridge_under_construction_on_Penna_river_near_Nellore_(May_2019)_1.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bridge_under_construction_on_Penna_river_near_Nellore_%28May_2019%29_1.jpg/1920px-Bridge_under_construction_on_Penna_river_near_Nellore_%28May_2019%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bridge_under_construction_on_Penna_river_near_Nellore_%28May_2019%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4032,
+    "altura_original": 3024,
+    "descricao": "Bridge under construction on Penna river near Nellore",
+    "categorias": "Bridges in Andhra Pradesh|Nellore|Self-published work|May 2019 India photographs|Files with coordinates missing SDC location of creation|Penna River in Andhra Pradesh|Images by User:I.Mahesh",
+    "data": "2019-05-24 08:28:52",
+    "query": "Nelore",
+    "arquivo": "wc_79272994.jpg",
+    "bytes": 546134,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_IM3847",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [],
+      "nota": "Negativo real: obra de ponte e objetos de construção; nenhuma presença de bovino. Removida falsa caixa.",
+      "coordenadas": "panel",
+      "painel": "treino_04"
+    },
+    "caixas_xyxy": [],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_79272994.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 129349450,
+    "titulo": "File:Gado guzerá - Fazenda Carnaúba.jpg",
+    "autor": "TiagoLubiana",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gado_guzer%C3%A1_-_Fazenda_Carna%C3%BAba.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Gado_guzer%C3%A1_-_Fazenda_Carna%C3%BAba.jpg/1920px-Gado_guzer%C3%A1_-_Fazenda_Carna%C3%BAba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gado_guzer%C3%A1_-_Fazenda_Carna%C3%BAba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4944,
+    "altura_original": 3296,
+    "descricao": "Gado guzerá, com marca de ferro na Fazenda Carnaúba, em  Taperoá  , na  Paraíba , dos parentes de  Ariano Suassuna . O animal está marcado com ferrete em estilo   armorial .",
+    "categorias": "Guzerá|Self-published work",
+    "data": "2023-03-07 10:48:16",
+    "query": "Guzera cattle",
+    "arquivo": "wc_129349450.jpg",
+    "bytes": 312284,
+    "status": "completa",
+    "conjunto": "test",
+    "grupo": "autor_TiagoLubiana",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          118,
+          9,
+          593,
+          395
+        ]
+      ],
+      "nota": "1 bovino truncado pelo enquadramento.",
+      "coordenadas": "panel",
+      "painel": "manual_01"
+    },
+    "caixas_xyxy": [
+      [
+        382.2303797468354,
+        29.164556962025316,
+        1920.0,
+        1280.0
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_129349450.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 31066786,
+    "titulo": "File:Pecuária PR Gado de leite em Palmeira.jpg",
+    "autor": "Deyvid Aleksandr Raffo Setti",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pecu%C3%A1ria_PR_Gado_de_leite_em_Palmeira.jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pecu%C3%A1ria_PR_Gado_de_leite_em_Palmeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pecu%C3%A1ria_PR_Gado_de_leite_em_Palmeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 1500,
+    "altura_original": 1013,
+    "descricao": "Gado leiteiro em Palmeira (PR), Brasil.",
+    "categorias": "Holstein Friesian cattle|Livestock in Paraná|Self-published work|Cattle in Brazil|Pastures in Brazil",
+    "data": "2005-12-20 18:39:42",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_31066786.jpg",
+    "bytes": 194198,
+    "anotacao": {
+      "coordenadas": "original",
+      "conjunto": "test",
+      "caixas": [
+        [
+          224,
+          277,
+          965,
+          761
+        ],
+        [
+          917,
+          346,
+          1345,
+          750
+        ]
+      ],
+      "nota": "Dois bovinos; animal da direita parcialmente oculto pelo maior."
+    },
+    "caixas_xyxy": [
+      [
+        224.0,
+        277.0,
+        965.0,
+        761.0
+      ],
+      [
+        917.0,
+        346.0,
+        1345.0,
+        750.0
+      ]
+    ],
+    "arquivo_exportado": "wc_31066786.jpg",
+    "status": "completa",
+    "conjunto": "test"
+  },
+  {
+    "pageid": 48672936,
+    "titulo": "File:Gadoilheus.jpg",
+    "autor": "Anamartabrasil",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gadoilheus.jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Gadoilheus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Gadoilheus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 1280,
+    "altura_original": 719,
+    "descricao": "Área de Proteção Ambiental da Lagoa Encantada, Ilhéus.",
+    "categorias": "Área de Proteção Ambiental da Lagoa Encantada|Self-published work|Cattle in Brazil|Uploaded via Campaign:wle-br|Images from Wiki Loves Earth 2016 in Brazil|Images from Wiki Loves Earth 2016|Brazil photographs taken on 2016-05-06|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Low-resolution images from Wiki Loves Earth 2016 in Brazil",
+    "data": "2016-05-06",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_48672936.jpg",
+    "bytes": 227127,
+    "anotacao": {
+      "coordenadas": "original",
+      "recorte_supervisionado": [
+        100,
+        210,
+        1280,
+        719
+      ],
+      "conjunto": "test",
+      "caixas": [
+        [
+          100,
+          245,
+          557,
+          679
+        ],
+        [
+          320,
+          224,
+          522,
+          398
+        ],
+        [
+          465,
+          210,
+          506,
+          243
+        ],
+        [
+          133,
+          211,
+          222,
+          250
+        ],
+        [
+          584,
+          230,
+          619,
+          282
+        ],
+        [
+          906,
+          246,
+          1004,
+          340
+        ],
+        [
+          1038,
+          246,
+          1079,
+          286
+        ]
+      ],
+      "nota": "Sete bovinos identificaveis no recorte; inclui dois ocultos atras da vaca marrom/palmeira. Pequenos animais no extremo esquerdo distante ficaram fora do recorte, cuja geometria foi definida antes de inferir."
+    },
+    "caixas_xyxy": [
+      [
+        0.0,
+        35.0,
+        457.0,
+        469.0
+      ],
+      [
+        220.0,
+        14.0,
+        422.0,
+        188.0
+      ],
+      [
+        365.0,
+        0.0,
+        406.0,
+        33.0
+      ],
+      [
+        33.0,
+        1.0,
+        122.0,
+        40.0
+      ],
+      [
+        484.0,
+        20.0,
+        519.0,
+        72.0
+      ],
+      [
+        806.0,
+        36.0,
+        904.0,
+        130.0
+      ],
+      [
+        938.0,
+        36.0,
+        979.0,
+        76.0
+      ]
+    ],
+    "arquivo_exportado": "wc_48672936_recorte.jpg",
+    "status": "completa",
+    "conjunto": "test"
+  },
+  {
+    "pageid": 52900623,
+    "titulo": "File:Novilho de Nelore - USP - Pirassununga - panoramio.jpg",
+    "autor": "Edu Fiasco",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Novilho_de_Nelore_-_USP_-_Pirassununga_-_panoramio.jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Novilho_de_Nelore_-_USP_-_Pirassununga_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Novilho_de_Nelore_-_USP_-_Pirassununga_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 1024,
+    "altura_original": 768,
+    "descricao": "Novilho de Nelore - USP - Pirassununga",
+    "categorias": "Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Brazil photographs taken on 2010-01-31|Campus of Pirassununga, University of São Paulo",
+    "data": "Taken on 31 January 2010",
+    "query": "Nelore",
+    "arquivo": "wc_52900623.jpg",
+    "bytes": 446915,
+    "anotacao": {
+      "coordenadas": "original",
+      "recorte_supervisionado": [
+        0,
+        120,
+        1024,
+        768
+      ],
+      "conjunto": "test",
+      "caixas": [
+        [
+          351,
+          186,
+          618,
+          592
+        ]
+      ],
+      "nota": "Um bezerro no recorte frontal. Recorte exclui bovinos muito pequenos/ocultos nos abrigos ao fundo."
+    },
+    "caixas_xyxy": [
+      [
+        351.0,
+        66.0,
+        618.0,
+        472.0
+      ]
+    ],
+    "arquivo_exportado": "wc_52900623_recorte.jpg",
+    "status": "completa",
+    "conjunto": "test"
+  },
+  {
+    "pageid": 53208126,
+    "titulo": "File:Pres. Castelo Branco - PR, Brazil - panoramio (1).jpg",
+    "autor": "LEONARDO DASILVA",
+    "licenca": "CC BY 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pres._Castelo_Branco_-_PR,_Brazil_-_panoramio_(1).jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Pres._Castelo_Branco_-_PR%2C_Brazil_-_panoramio_%281%29.jpg/1920px-Pres._Castelo_Branco_-_PR%2C_Brazil_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pres._Castelo_Branco_-_PR%2C_Brazil_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 2592,
+    "altura_original": 1936,
+    "descricao": "Pres. Castelo Branco - PR, Brazil",
+    "categorias": "Presidente Castelo Branco (Paraná)|Livestock in Paraná|Panoramio files uploaded by Panoramio upload bot|Cattle in Brazil|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Brazil photographs taken on 2011-03-15|Photos from Panoramio ID 589799",
+    "data": "Taken on 15 March 2011",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_53208126.jpg",
+    "bytes": 692057,
+    "status": "completa",
+    "conjunto": "train",
+    "grupo": "autor_LEONARDO DASILVA",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "origem_lote": "brasil_lote_01",
+      "coordenadas": "review",
+      "recorte_supervisionado": [
+        0,
+        400,
+        1280,
+        956
+      ],
+      "conjunto": "train",
+      "caixas": [
+        [
+          76,
+          447,
+          135,
+          509
+        ],
+        [
+          502,
+          455,
+          571,
+          497
+        ],
+        [
+          413,
+          507,
+          649,
+          655
+        ],
+        [
+          682,
+          611,
+          786,
+          667
+        ],
+        [
+          709,
+          582,
+          789,
+          632
+        ],
+        [
+          787,
+          634,
+          961,
+          713
+        ],
+        [
+          886,
+          613,
+          1017,
+          692
+        ],
+        [
+          883,
+          638,
+          1082,
+          736
+        ],
+        [
+          1095,
+          426,
+          1125,
+          446
+        ]
+      ],
+      "nota": "9 bovinos no recorte frontal: cinco deitados sobrepostos, dois em pe, um deitado atras do animal em pe e um distante a direita. Rebanho distante no horizonte excluido pelo recorte. Inspecao ampliada, sem promover as propostas do detector."
+    },
+    "caixas_xyxy": [
+      [
+        114.0,
+        70.5,
+        202.5,
+        163.5
+      ],
+      [
+        753.0,
+        82.5,
+        856.5,
+        145.5
+      ],
+      [
+        619.5,
+        160.5,
+        973.5,
+        382.5
+      ],
+      [
+        1023.0,
+        316.5,
+        1179.0,
+        400.5
+      ],
+      [
+        1063.5,
+        273.0,
+        1183.5,
+        348.0
+      ],
+      [
+        1180.5,
+        351.0,
+        1441.5,
+        469.5
+      ],
+      [
+        1329.0,
+        319.5,
+        1525.5,
+        438.0
+      ],
+      [
+        1324.5,
+        357.0,
+        1623.0,
+        504.0
+      ],
+      [
+        1642.5,
+        39.0,
+        1687.5,
+        69.0
+      ]
+    ],
+    "arquivo_exportado": "wc_53208126_recorte.jpg"
+  }
+]

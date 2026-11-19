@@ -1,0 +1,50 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+logs/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+# dados pesados: sempre reproduzíveis pelos scripts
+data/raw/*.zip
+data/raw/*.zip.parte
+data/interim/
+data/yolo/
+data/extras/
+# download manual do CattleEyeView (zips, tar.gz e vídeos, ~21 GB)
+CattleEyeView/
+runs/
+# pesos do modelo (gerados pelo notebook; remova a linha para versionar)
+*.pt
+
+# backups, cache e saídas reproduzíveis
+data/backups/
+data/cache_inferencia/
+data/experimentos/
+data/avaliacoes/
+
+# fontes publicas volumosas e ferramentas locais
+data/denso_cattle/original/
+data/denso_cattle/fonte.zip
+data/detectors_cows/dataset_cows/
+data/dataset_cows*.7z
+data/ferramentas/
+data/runtime/
+data/cache_vlm/
+data/cache_video/
+dist_publicacao/
+
+# Artefatos publicados: somente lista explicita
+.codex/
+.agents/
+Ultralytics/
+data/*
+!data/processed/
+!data/modelos/
+!data/modelos_candidatos/
+!data/brasil_dataset_v2/
+!data/galeria_publica/
+!data/processed/**/*.pt
+!data/modelos_candidatos/*.pt

@@ -1,0 +1,13 @@
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_12152984.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_74195719.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_70248877.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_59902594.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_120934387.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_92661251.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_127564840.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_120934388.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_54346635.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_129349450.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_31066786.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_48672936_recorte.jpg
+C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2/images/wc_52900623_recorte.jpg

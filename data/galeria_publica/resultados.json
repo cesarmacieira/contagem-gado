@@ -1,0 +1,380 @@
+[
+  {
+    "id": "36675240",
+    "url": "https://www.pexels.com/photo/herd-of-cows-grazing-on-brazilian-pasture-36675240/",
+    "referencia": null,
+    "status": "completed",
+    "resposta": "23",
+    "contagem": 23,
+    "uso": {
+      "input_tokens": 4638,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 4657
+    },
+    "custo_estimado_usd": 0.0002395,
+    "erro_absoluto": null,
+    "segundos": 2.38
+  },
+  {
+    "id": "18518279",
+    "url": "https://www.pexels.com/photo/herd-of-cows-in-the-pasture-18518279/",
+    "referencia": null,
+    "status": "completed",
+    "resposta": "21",
+    "contagem": 21,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": null,
+    "segundos": 1.66
+  },
+  {
+    "id": "5123209",
+    "url": "https://www.pexels.com/photo/herd-of-cows-in-pasture-5123209/",
+    "referencia": 5,
+    "status": "completed",
+    "resposta": "5",
+    "contagem": 5,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": 0,
+    "segundos": 1.95
+  },
+  {
+    "id": "21764389",
+    "url": "https://www.pexels.com/photo/cows-on-pasture-21764389/",
+    "referencia": null,
+    "status": "completed",
+    "resposta": "8",
+    "contagem": 8,
+    "uso": {
+      "input_tokens": 4158,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 4177
+    },
+    "custo_estimado_usd": 0.0002155,
+    "erro_absoluto": null,
+    "segundos": 1.75
+  },
+  {
+    "id": "8633329",
+    "url": "https://www.pexels.com/photo/cows-on-a-grassy-field-8633329/",
+    "referencia": null,
+    "status": "completed",
+    "resposta": "21",
+    "contagem": 21,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": null,
+    "segundos": 2.0
+  },
+  {
+    "id": "4731097",
+    "url": "https://www.pexels.com/photo/herd-of-cows-in-countryside-4731097/",
+    "referencia": null,
+    "status": "completed",
+    "resposta": "14",
+    "contagem": 14,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": null,
+    "segundos": 1.45
+  },
+  {
+    "id": "40766382",
+    "url": "https://www.pexels.com/photo/cattle-grazing-in-serra-negra-brazil-landscape-40766382/",
+    "referencia": 1,
+    "status": "completed",
+    "resposta": "2",
+    "contagem": 2,
+    "uso": {
+      "input_tokens": 4158,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 4177
+    },
+    "custo_estimado_usd": 0.0002155,
+    "erro_absoluto": 1,
+    "segundos": 1.81
+  },
+  {
+    "id": "31026900",
+    "url": "https://www.pexels.com/photo/close-up-of-nelore-cattle-in-sao-paulo-pasture-31026900/",
+    "referencia": null,
+    "status": "completed",
+    "resposta": "2",
+    "contagem": 2,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": null,
+    "segundos": 1.69
+  },
+  {
+    "id": "31026881",
+    "url": "https://www.pexels.com/photo/herd-of-cattle-grazing-in-porto-feliz-31026881/",
+    "referencia": null,
+    "status": "completed",
+    "resposta": "6",
+    "contagem": 6,
+    "uso": {
+      "input_tokens": 4638,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 4657
+    },
+    "custo_estimado_usd": 0.0002395,
+    "erro_absoluto": null,
+    "segundos": 2.74
+  },
+  {
+    "id": "953966",
+    "url": "https://www.pexels.com/photo/herd-of-brown-calf-953966/",
+    "referencia": null,
+    "status": "completed",
+    "resposta": "5",
+    "contagem": 5,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": null,
+    "segundos": 2.14
+  },
+  {
+    "id": "15956981",
+    "url": "https://www.pexels.com/photo/horses-on-pasture-15956981/",
+    "referencia": 0,
+    "status": "completed",
+    "resposta": "6",
+    "contagem": 6,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": 6,
+    "segundos": 1.8
+  },
+  {
+    "id": "11974794",
+    "url": "https://www.pexels.com/photo/farm-animals-on-a-grazing-land-11974794/",
+    "referencia": 2,
+    "status": "completed",
+    "resposta": "2",
+    "contagem": 2,
+    "uso": {
+      "input_tokens": 4158,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 4177
+    },
+    "custo_estimado_usd": 0.0002155,
+    "erro_absoluto": 0,
+    "segundos": 2.64
+  },
+  {
+    "id": "29298395",
+    "url": "https://www.pexels.com/photo/two-cows-nuzzling-in-sunny-pasture-29298395/",
+    "referencia": 3,
+    "status": "completed",
+    "resposta": "3",
+    "contagem": 3,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": 0,
+    "segundos": 1.53
+  },
+  {
+    "id": "28804645",
+    "url": "https://www.pexels.com/photo/three-cows-grazing-in-a-sunny-meadow-28804645/",
+    "referencia": 3,
+    "status": "completed",
+    "resposta": "3",
+    "contagem": 3,
+    "uso": {
+      "input_tokens": 2580,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 0
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 19,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2599
+    },
+    "custo_estimado_usd": 0.00013659999999999999,
+    "erro_absoluto": 0,
+    "segundos": 1.31
+  }
+]

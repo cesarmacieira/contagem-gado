@@ -1,0 +1,24 @@
+{
+  "yolo": {
+    "0": "bovino"
+  },
+  "coco": {
+    "1": "bovino"
+  },
+  "inclui": [
+    "vaca",
+    "touro",
+    "boi",
+    "bezerro",
+    "bovino parcialmente visivel individualizavel"
+  ],
+  "exclui": [
+    "cavalo",
+    "pessoa",
+    "ave",
+    "carne embalada",
+    "objetos"
+  ],
+  "politica": "Uma caixa por individuo, reunindo cabeca e corpo visiveis. Caixa do trecho visivel, sem inventar extensao oculta. Contar animais cortados nas bordas. Cenas com individuos nao separaveis ficam parciais e fora do treino.",
+  "qualidade": "Primeira revisao visual do assistente; recomenda-se segunda revisao humana antes de uso operacional."
+}

@@ -1,0 +1,756 @@
+[
+  {
+    "pageid": 16724852,
+    "titulo": "File:Matrizes bovinas prenhes.jpg",
+    "autor": "Zeloneto",
+    "licenca": "CC BY-SA 3.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Matrizes_bovinas_prenhes.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Matrizes_bovinas_prenhes.jpg/1920px-Matrizes_bovinas_prenhes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Matrizes_bovinas_prenhes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 2048,
+    "altura_original": 1536,
+    "descricao": "Vacas recebem técnica da IATF para emprenharem ao mesmo tempo",
+    "categorias": "Taken with Sony DSC-S40|Self-published work|Cattle in Brazil",
+    "data": "2007-07-23",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_16724852.jpg",
+    "bytes": 479349,
+    "status": "parcial",
+    "conjunto": "train",
+    "grupo": "autor_Zeloneto",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          0,
+          294,
+          338,
+          728
+        ],
+        [
+          446,
+          315,
+          857,
+          739
+        ],
+        [
+          785,
+          301,
+          981,
+          709
+        ],
+        [
+          1072,
+          286,
+          1280,
+          670
+        ],
+        [
+          877,
+          307,
+          1137,
+          645
+        ],
+        [
+          241,
+          375,
+          346,
+          676
+        ],
+        [
+          318,
+          357,
+          408,
+          589
+        ],
+        [
+          388,
+          344,
+          510,
+          629
+        ],
+        [
+          434,
+          322,
+          489,
+          370
+        ],
+        [
+          500,
+          312,
+          574,
+          369
+        ],
+        [
+          561,
+          314,
+          656,
+          369
+        ],
+        [
+          656,
+          331,
+          716,
+          374
+        ],
+        [
+          941,
+          321,
+          1017,
+          380
+        ],
+        [
+          0,
+          337,
+          44,
+          396
+        ],
+        [
+          27,
+          335,
+          120,
+          395
+        ],
+        [
+          1171,
+          290,
+          1252,
+          363
+        ]
+      ],
+      "nota": "16 indivíduos visíveis marcados; oclusões no fundo impedem confirmar caixas de todos os animais. Parcial: excluída do treino supervisionado.",
+      "coordenadas": "review",
+      "qualidade": "parcial",
+      "minimo": 16,
+      "maximo": 22
+    },
+    "caixas_xyxy": [
+      [
+        0.0,
+        441.0,
+        507.0,
+        1092.0
+      ],
+      [
+        669.0,
+        472.5,
+        1285.5,
+        1108.5
+      ],
+      [
+        1177.5,
+        451.5,
+        1471.5,
+        1063.5
+      ],
+      [
+        1608.0,
+        429.0,
+        1920.0,
+        1005.0
+      ],
+      [
+        1315.5,
+        460.5,
+        1705.5,
+        967.5
+      ],
+      [
+        361.5,
+        562.5,
+        519.0,
+        1014.0
+      ],
+      [
+        477.0,
+        535.5,
+        612.0,
+        883.5
+      ],
+      [
+        582.0,
+        516.0,
+        765.0,
+        943.5
+      ],
+      [
+        651.0,
+        483.0,
+        733.5,
+        555.0
+      ],
+      [
+        750.0,
+        468.0,
+        861.0,
+        553.5
+      ],
+      [
+        841.5,
+        471.0,
+        984.0,
+        553.5
+      ],
+      [
+        984.0,
+        496.5,
+        1074.0,
+        561.0
+      ],
+      [
+        1411.5,
+        481.5,
+        1525.5,
+        570.0
+      ],
+      [
+        0.0,
+        505.5,
+        66.0,
+        594.0
+      ],
+      [
+        40.5,
+        502.5,
+        180.0,
+        592.5
+      ],
+      [
+        1756.5,
+        435.0,
+        1878.0,
+        544.5
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_16724852.jpg",
+    "metodo": "propostas_treino_corrigidas_visualmente"
+  },
+  {
+    "pageid": 49979091,
+    "titulo": "File:Herd of Brahma Cattle led by Pantaneiro Cowboy ... - Flickr - berniedup.jpg",
+    "autor": "Bernard DUPONT  from FRANCE",
+    "licenca": "CC BY-SA 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Herd_of_Brahma_Cattle_led_by_Pantaneiro_Cowboy_..._-_Flickr_-_berniedup.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Herd_of_Brahma_Cattle_led_by_Pantaneiro_Cowboy_..._-_Flickr_-_berniedup.jpg/1920px-Herd_of_Brahma_Cattle_led_by_Pantaneiro_Cowboy_..._-_Flickr_-_berniedup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Herd_of_Brahma_Cattle_led_by_Pantaneiro_Cowboy_..._-_Flickr_-_berniedup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 5472,
+    "altura_original": 2423,
+    "descricao": "Transpantaneira, Poconé, Mato Grosso, BRAZIL",
+    "categorias": "Flickr images reviewed by FlickreviewR|Agriculture in Mato Grosso|Cattle in Brazil|White cattle|Photographs by Bernard Dupont|Brazil photographs taken on 2016-07-06|Files uploaded by Josve05a (Bernard Dupont)",
+    "data": "2016-07-06 11:25",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_49979091.jpg",
+    "bytes": 397980,
+    "status": "parcial",
+    "conjunto": "test",
+    "grupo": "autor_Bernard DUPONT  from FRANCE",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          45,
+          291,
+          173,
+          455
+        ],
+        [
+          175,
+          301,
+          225,
+          443
+        ],
+        [
+          196,
+          301,
+          283,
+          435
+        ],
+        [
+          232,
+          282,
+          338,
+          436
+        ],
+        [
+          414,
+          281,
+          483,
+          435
+        ],
+        [
+          481,
+          293,
+          537,
+          431
+        ],
+        [
+          506,
+          268,
+          594,
+          432
+        ],
+        [
+          554,
+          265,
+          655,
+          442
+        ],
+        [
+          630,
+          262,
+          734,
+          434
+        ],
+        [
+          730,
+          260,
+          807,
+          439
+        ],
+        [
+          778,
+          272,
+          831,
+          427
+        ],
+        [
+          793,
+          289,
+          873,
+          438
+        ],
+        [
+          838,
+          284,
+          883,
+          434
+        ],
+        [
+          876,
+          258,
+          966,
+          445
+        ],
+        [
+          931,
+          277,
+          982,
+          431
+        ],
+        [
+          967,
+          294,
+          1025,
+          423
+        ],
+        [
+          992,
+          308,
+          1040,
+          424
+        ],
+        [
+          1019,
+          282,
+          1103,
+          445
+        ],
+        [
+          1063,
+          282,
+          1112,
+          424
+        ],
+        [
+          1075,
+          300,
+          1141,
+          438
+        ],
+        [
+          1127,
+          306,
+          1200,
+          447
+        ],
+        [
+          1178,
+          300,
+          1253,
+          451
+        ],
+        [
+          1229,
+          325,
+          1273,
+          425
+        ]
+      ],
+      "nota": "23 indivíduos claramente marcados. Há cabeças/corpos adicionais parcialmente ocultos no fundo, sem separação confiável nesta resolução. Gabarito parcial: não usar como treino ou métrica de caixas exata.",
+      "coordenadas": "review",
+      "qualidade": "parcial",
+      "minimo": 23,
+      "maximo": 35
+    },
+    "caixas_xyxy": [
+      [
+        67.5,
+        436.2433862433862,
+        259.5,
+        682.0987654320987
+      ],
+      [
+        262.5,
+        451.2345679012346,
+        337.5,
+        664.1093474426808
+      ],
+      [
+        294.0,
+        451.2345679012346,
+        424.5,
+        652.1164021164021
+      ],
+      [
+        348.0,
+        422.75132275132273,
+        507.0,
+        653.6155202821869
+      ],
+      [
+        621.0,
+        421.2522045855379,
+        724.5,
+        652.1164021164021
+      ],
+      [
+        721.5,
+        439.2416225749559,
+        805.5,
+        646.1199294532628
+      ],
+      [
+        759.0,
+        401.7636684303351,
+        891.0,
+        647.6190476190476
+      ],
+      [
+        831.0,
+        397.2663139329806,
+        982.5,
+        662.610229276896
+      ],
+      [
+        945.0,
+        392.76895943562613,
+        1101.0,
+        650.6172839506173
+      ],
+      [
+        1095.0,
+        389.77072310405646,
+        1210.5,
+        658.1128747795415
+      ],
+      [
+        1167.0,
+        407.76014109347443,
+        1246.5,
+        640.1234567901234
+      ],
+      [
+        1189.5,
+        433.2451499118166,
+        1309.5,
+        656.6137566137567
+      ],
+      [
+        1257.0,
+        425.7495590828924,
+        1324.5,
+        650.6172839506173
+      ],
+      [
+        1314.0,
+        386.7724867724868,
+        1449.0,
+        667.1075837742504
+      ],
+      [
+        1396.5,
+        415.2557319223986,
+        1473.0,
+        646.1199294532628
+      ],
+      [
+        1450.5,
+        440.74074074074076,
+        1537.5,
+        634.1269841269841
+      ],
+      [
+        1488.0,
+        461.7283950617284,
+        1560.0,
+        635.626102292769
+      ],
+      [
+        1528.5,
+        422.75132275132273,
+        1654.5,
+        667.1075837742504
+      ],
+      [
+        1594.5,
+        422.75132275132273,
+        1668.0,
+        635.626102292769
+      ],
+      [
+        1612.5,
+        449.7354497354497,
+        1711.5,
+        656.6137566137567
+      ],
+      [
+        1690.5,
+        458.73015873015873,
+        1800.0,
+        670.1058201058202
+      ],
+      [
+        1767.0,
+        449.7354497354497,
+        1879.5,
+        676.1022927689595
+      ],
+      [
+        1843.5,
+        487.21340388007053,
+        1909.5,
+        637.1252204585538
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_49979091.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 49203499,
+    "titulo": "File:Corredor Ecológico e uso de solo.jpg",
+    "autor": "Chico1952",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Corredor_Ecol%C3%B3gico_e_uso_de_solo.jpg",
+    "url_imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Corredor_Ecol%C3%B3gico_e_uso_de_solo.jpg/1920px-Corredor_Ecol%C3%B3gico_e_uso_de_solo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Corredor_Ecol%C3%B3gico_e_uso_de_solo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 4000,
+    "altura_original": 3000,
+    "descricao": "corredor Ecológico Alto Misterioso",
+    "categorias": "Self-published work|Cattle in Brazil|Pastures in Brazil|Uploaded via Campaign:wle-br|Images from Wiki Loves Earth 2016 in Brazil|Images from Wiki Loves Earth 2016|Files with coordinates missing SDC location of creation|Brazil photographs taken on 2011-05-21|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Corredor Ecológico Alto Misterioso",
+    "data": "2011-05-21 09:34:29",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_49203499.jpg",
+    "bytes": 771259,
+    "status": "parcial",
+    "conjunto": "val",
+    "grupo": "autor_Chico1952",
+    "revisado": false,
+    "motivo_exclusao": "",
+    "anotacao": {
+      "caixas": [
+        [
+          424,
+          675,
+          475,
+          765
+        ],
+        [
+          614,
+          640,
+          686,
+          756
+        ],
+        [
+          576,
+          602,
+          714,
+          688
+        ],
+        [
+          693,
+          596,
+          777,
+          661
+        ],
+        [
+          696,
+          579,
+          748,
+          613
+        ],
+        [
+          757,
+          575,
+          814,
+          612
+        ],
+        [
+          817,
+          558,
+          866,
+          617
+        ],
+        [
+          878,
+          569,
+          907,
+          588
+        ],
+        [
+          989,
+          543,
+          1060,
+          593
+        ],
+        [
+          1028,
+          514,
+          1090,
+          569
+        ]
+      ],
+      "nota": "10 indivíduos marcados com identificação clara; há animais muito distantes junto à cerca. Anotação parcial, excluída do treino e da validação quantitativa.",
+      "coordenadas": "review",
+      "qualidade": "parcial",
+      "minimo": 10,
+      "maximo": 17
+    },
+    "caixas_xyxy": [
+      [
+        636.0,
+        1012.5,
+        712.5,
+        1147.5
+      ],
+      [
+        921.0,
+        960.0,
+        1029.0,
+        1134.0
+      ],
+      [
+        864.0,
+        903.0,
+        1071.0,
+        1032.0
+      ],
+      [
+        1039.5,
+        894.0,
+        1165.5,
+        991.5
+      ],
+      [
+        1044.0,
+        868.5,
+        1122.0,
+        919.5
+      ],
+      [
+        1135.5,
+        862.5,
+        1221.0,
+        918.0
+      ],
+      [
+        1225.5,
+        837.0,
+        1299.0,
+        925.5
+      ],
+      [
+        1317.0,
+        853.5,
+        1360.5,
+        882.0
+      ],
+      [
+        1483.5,
+        814.5,
+        1590.0,
+        889.5
+      ],
+      [
+        1542.0,
+        771.0,
+        1635.0,
+        853.5
+      ]
+    ],
+    "revisao": "assistente_visual_v1",
+    "arquivo_exportado": "wc_49203499.jpg",
+    "metodo": "manual_sobre_imagem_limpa"
+  },
+  {
+    "pageid": 194144663,
+    "titulo": "File:Boiada sendo conduzida pelos pantaneiros (cropped 2).jpg",
+    "autor": "Vicente Bissoni Neto",
+    "licenca": "CC BY-SA 4.0",
+    "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Boiada_sendo_conduzida_pelos_pantaneiros_(cropped_2).jpg",
+    "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Boiada_sendo_conduzida_pelos_pantaneiros_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url_original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Boiada_sendo_conduzida_pelos_pantaneiros_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "largura_original": 1619,
+    "altura_original": 2159,
+    "descricao": "Boiada sendo conduzida pelos pantaneiros",
+    "categorias": "Tropeiros|Pantaneiro horse|Self-published work|Extracted images|Cattle in Brazil|Uploaded via Campaign:wle-br|Images from Wiki Loves Earth 2016 in Brazil|Images from Wiki Loves Earth 2016|Files with coordinates missing SDC location of creation|Brazil photographs taken on 2015-01-24|Gauchos of Brazil|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth missing SDC inception|Images from Wiki Loves Earth missing SDC participant in|Artiodactyla - Parque Nacional do Pantanal Matogrossense|Mammals of Parque Nacional do Pantanal Matogrossense",
+    "data": "2015-01-24 12:04:38",
+    "query": "incategory:\"Cattle in Brazil\"",
+    "arquivo": "wc_194144663.jpg",
+    "bytes": 2854597,
+    "anotacao": {
+      "coordenadas": "original",
+      "qualidade": "parcial",
+      "conjunto": "diagnostico",
+      "caixas": [
+        [
+          634,
+          991,
+          968,
+          1597
+        ],
+        [
+          1413,
+          1037,
+          1619,
+          1558
+        ]
+      ],
+      "nota": "Dois bovinos frontais marcados como exemplo; rebanho denso com muitos individuos parcialmente ocultos nao completamente rotulado. Os dois animais montados sao cavalos. Nao usar como treino ou gabarito exato."
+    },
+    "caixas_xyxy": [
+      [
+        634.0,
+        991.0,
+        968.0,
+        1597.0
+      ],
+      [
+        1413.0,
+        1037.0,
+        1619.0,
+        1558.0
+      ]
+    ],
+    "arquivo_exportado": "wc_194144663.jpg",
+    "status": "parcial",
+    "conjunto": "diagnostico"
+  }
+]

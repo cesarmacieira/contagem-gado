@@ -1,0 +1,172 @@
+{
+  "gerado_em": "2026-11-15T19:07:30",
+  "modelo_base": "yolo11s.pt",
+  "epocas_pedidas": 60,
+  "epocas_rodadas": 60,
+  "tile": 1024,
+  "overlap": 0.2,
+  "flipud": 0.15,
+  "rapido": false,
+  "conf_otima": 0.35,
+  "conf_por_dominio": {
+    "aereo_pasto": 0.5,
+    "cev_rampa": 0.6,
+    "colo_externo": 0.25,
+    "colo_lateral": 0.3,
+    "colo_topo": 0.2,
+    "foto_openimages": 0.45
+  },
+  "seed": 42,
+  "modo_por_dominio": {
+    "aereo_pasto": "tiles",
+    "colo_topo": "inteira",
+    "colo_lateral": "inteira",
+    "colo_externo": "inteira",
+    "cev_rampa": "inteira",
+    "foto_openimages": "inteira"
+  },
+  "imagens_total": 6802,
+  "caixas_total": 28577,
+  "fontes": {
+    "aereo_pasto": {
+      "nome": "Drone vertical em pasto (Zenodo)",
+      "imagens": 550,
+      "caixas": 4747
+    },
+    "colo_topo": {
+      "nome": "Vista de cima em instalação (COLO)",
+      "imagens": 504,
+      "caixas": 3937
+    },
+    "colo_lateral": {
+      "nome": "Vista lateral em instalação (COLO)",
+      "imagens": 500,
+      "caixas": 5896
+    },
+    "colo_externo": {
+      "nome": "Vista externa (COLO)",
+      "imagens": 250,
+      "caixas": 1970
+    },
+    "cev_rampa": {
+      "nome": "Vista de cima em rampa de curral (CattleEyeView)",
+      "imagens": 1680,
+      "caixas": 3849
+    },
+    "foto_openimages": {
+      "nome": "Foto comum (Open Images)",
+      "imagens": 2483,
+      "caixas": 8178
+    }
+  },
+  "conjuntos": {
+    "train": {
+      "imagens_usadas": 4119,
+      "caixas": 20277,
+      "voos": 2411
+    },
+    "val": {
+      "imagens_usadas": 622,
+      "caixas": 3510,
+      "voos": 203
+    },
+    "test": {
+      "imagens_usadas": 1226,
+      "caixas": 4790,
+      "voos": 470
+    }
+  },
+  "tile_metricas": {
+    "validação": {
+      "precisao": 0.932,
+      "recall": 0.884,
+      "mAP50": 0.943,
+      "mAP50_95": 0.7
+    },
+    "teste": {
+      "precisao": 0.92,
+      "recall": 0.805,
+      "mAP50": 0.878,
+      "mAP50_95": 0.649
+    }
+  },
+  "contagem_teste": {
+    "MAE": 0.7536704730831973,
+    "RMSE": 1.6226375724974018,
+    "vies": -0.4812398042414356,
+    "MAPE_pct": 19.982178952499677,
+    "erro_total_pct": -12.31732776617954,
+    "WAPE_pct": 19.290187891440503,
+    "R2": 0.9202754294701507,
+    "n_imagens": 1226,
+    "conf": 0.35
+  },
+  "por_dominio": {
+    "aereo_pasto": {
+      "conf": 0.5,
+      "MAE": 1.9859154929577465,
+      "RMSE": 4.092246189226576,
+      "vies": -1.8732394366197183,
+      "MAPE_pct": 40.899563905435194,
+      "erro_total_pct": -22.9706390328152,
+      "WAPE_pct": 24.352331606217618,
+      "R2": 0.9461730237065943,
+      "n_imagens": 71.0
+    },
+    "cev_rampa": {
+      "conf": 0.6,
+      "MAE": 0.45666666666666667,
+      "RMSE": 1.0739335795724674,
+      "vies": -0.38333333333333336,
+      "MAPE_pct": 11.140542328042327,
+      "erro_total_pct": -14.348097317529632,
+      "WAPE_pct": 17.092950717404864,
+      "R2": 0.6883329792799981,
+      "n_imagens": 600.0
+    },
+    "colo_externo": {
+      "conf": 0.25,
+      "MAE": 1.4594594594594594,
+      "RMSE": 1.830669645608227,
+      "vies": 0.3783783783783784,
+      "MAPE_pct": 17.89318039318039,
+      "erro_total_pct": 4.472843450479233,
+      "WAPE_pct": 17.252396166134183,
+      "R2": 0.4541993813942422,
+      "n_imagens": 37.0
+    },
+    "colo_lateral": {
+      "conf": 0.3,
+      "MAE": 1.4657534246575343,
+      "RMSE": 2.260440010505895,
+      "vies": -0.1232876712328767,
+      "MAPE_pct": 17.112527027708694,
+      "erro_total_pct": -1.053864168618267,
+      "WAPE_pct": 12.52927400468384,
+      "R2": 0.8806541253199621,
+      "n_imagens": 73.0
+    },
+    "colo_topo": {
+      "conf": 0.2,
+      "MAE": 0.4675324675324675,
+      "RMSE": 0.772918234616442,
+      "vies": -0.07792207792207792,
+      "MAPE_pct": 6.3022032740342615,
+      "erro_total_pct": -0.9787928221859705,
+      "WAPE_pct": 5.872756933115824,
+      "R2": 0.9624453963272404,
+      "n_imagens": 77.0
+    },
+    "foto_openimages": {
+      "conf": 0.45,
+      "MAE": 0.8478260869565217,
+      "RMSE": 1.4781010143747457,
+      "vies": -0.6141304347826086,
+      "MAPE_pct": 35.082623183107586,
+      "erro_total_pct": -27.294685990338163,
+      "WAPE_pct": 37.68115942028986,
+      "R2": 0.5836354220611082,
+      "n_imagens": 368.0
+    }
+  }
+}

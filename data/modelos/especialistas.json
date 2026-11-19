@@ -1,0 +1,194 @@
+{
+  "versao": 1,
+  "nota": "Cada visao aceita pesos independentes. As referencias atuais compartilham o peso original onde os candidatos ainda nao passaram. Nao confundir configuracao por visao com especialista ja retreinado.",
+  "visoes": {
+    "solo_poucos": {
+      "rotulo": "Solo - poucos bovinos",
+      "dominio": "brasil_solo",
+      "disponivel": true,
+      "estado": "referencia_atual",
+      "pesos": "data/processed/modelo_gado.pt",
+      "sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+      "arquitetura": "yolo",
+      "classes": [
+        0
+      ],
+      "descricao": "Perfil atual para poucos bovinos. Os modelos alternativos ficaram abaixo desta referencia nas 13 fotos brasileiras de regressao ja conhecidas.",
+      "config": {
+        "modo": "inteira",
+        "imgsz": 1024,
+        "tile": 1024,
+        "overlap": 0.2,
+        "conf": 0.3,
+        "iou": 0.5,
+        "iou_juncao": 0.5,
+        "augment": false,
+        "legado": false
+      }
+    },
+    "solo_denso": {
+      "rotulo": "Solo - rebanho denso",
+      "dominio": "brasil_solo",
+      "disponivel": true,
+      "estado": "experimental",
+      "pesos": "data/processed/modelo_gado.pt",
+      "sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+      "arquitetura": "yolo",
+      "classes": [
+        0
+      ],
+      "descricao": "Referencia experimental para solo denso. Ainda pode omitir ou duplicar animais; o novo especialista depende das marcacoes brasileiras em preparacao.",
+      "config": {
+        "modo": "inteira",
+        "imgsz": 1280,
+        "tile": 1024,
+        "overlap": 0.2,
+        "conf": 0.15,
+        "iou": 0.7,
+        "iou_juncao": 0.5,
+        "augment": false,
+        "legado": false
+      }
+    },
+    "drone_vertical": {
+      "rotulo": "Drone - vista vertical em pasto",
+      "dominio": "aereo_pasto",
+      "disponivel": true,
+      "estado": "referencia_atual",
+      "pesos": "data/processed/modelo_gado.pt",
+      "sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+      "arquitetura": "yolo",
+      "classes": [
+        0
+      ],
+      "descricao": "Referencia aerea com recortes. Esta visao pode receber um especialista proprio sem mudar os modelos de solo ou curral.",
+      "config": {
+        "modo": "tiles",
+        "imgsz": 1024,
+        "tile": 1024,
+        "overlap": 0.2,
+        "conf": 0.5,
+        "iou": 0.5,
+        "iou_juncao": 0.5,
+        "augment": false,
+        "legado": true
+      }
+    },
+    "curral_topo": {
+      "rotulo": "Curral - vista de cima",
+      "dominio": "colo_topo",
+      "disponivel": true,
+      "estado": "referencia_atual",
+      "pesos": "data/processed/modelo_gado.pt",
+      "sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+      "arquitetura": "yolo",
+      "classes": [
+        0
+      ],
+      "descricao": "Referencia para curral visto de cima. A avaliacao deste angulo e separada da vista lateral e do pasto.",
+      "config": {
+        "modo": "inteira",
+        "imgsz": 1024,
+        "tile": 1024,
+        "overlap": 0.2,
+        "conf": 0.2,
+        "iou": 0.7,
+        "iou_juncao": 0.5,
+        "augment": false,
+        "legado": true
+      }
+    },
+    "curral_lateral": {
+      "rotulo": "Curral - vista lateral",
+      "dominio": "colo_lateral",
+      "disponivel": true,
+      "estado": "referencia_atual",
+      "pesos": "data/processed/modelo_gado.pt",
+      "sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+      "arquitetura": "yolo",
+      "classes": [
+        0
+      ],
+      "descricao": "Referencia para curral visto de lado, com parametros e avaliacao proprios.",
+      "config": {
+        "modo": "inteira",
+        "imgsz": 1024,
+        "tile": 1024,
+        "overlap": 0.2,
+        "conf": 0.3,
+        "iou": 0.7,
+        "iou_juncao": 0.5,
+        "augment": false,
+        "legado": true
+      }
+    },
+    "rampa": {
+      "rotulo": "Rampa - vista de cima",
+      "dominio": "cev_rampa",
+      "disponivel": true,
+      "estado": "referencia_atual",
+      "pesos": "data/processed/modelo_gado.pt",
+      "sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+      "arquitetura": "yolo",
+      "classes": [
+        0
+      ],
+      "descricao": "Referencia para rampa. Nao equivale a drone sobre pasto, apesar de ambas serem vistas de cima.",
+      "config": {
+        "modo": "inteira",
+        "imgsz": 1024,
+        "tile": 1024,
+        "overlap": 0.2,
+        "conf": 0.6,
+        "iou": 0.7,
+        "iou_juncao": 0.5,
+        "augment": false,
+        "legado": true
+      }
+    },
+    "curral_externo_topo": {
+      "rotulo": "Curral externo - vista de cima",
+      "dominio": "aereo_externo",
+      "disponivel": true,
+      "estado": "experimental",
+      "pesos": "data/processed/modelo_gado.pt",
+      "sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+      "arquitetura": "yolo",
+      "classes": [
+        0
+      ],
+      "descricao": "Conferencia de sombras para vista aerea externa, em desenvolvimento. Ainda pode duplicar ou omitir bovinos; confira as caixas na imagem.",
+      "config": {
+        "modo": "inteira",
+        "imgsz": 1024,
+        "tile": 1024,
+        "overlap": 0.2,
+        "conf": 0.3,
+        "iou": 0.7,
+        "iou_juncao": 0.5,
+        "augment": false,
+        "legado": true
+      },
+      "verificador_nucleo": {
+        "versao": 1,
+        "extrator": "data/modelos/verificador_sombras_v1/extrator.pth",
+        "classificador": "data/modelos/verificador_sombras_v1/classificador_retangulo.joblib",
+        "extrator_sha256": "7f5810bc96def8f7552d5b7e68d53c4786f81167d28291b21c0d90e1fca14934",
+        "classificador_sha256": "a2c12a46364b8b74fb1bc18cbbb93d26d6dcd2e69c9f35683d1f1acc4e063c56",
+        "receita_sha256": "f53047471e137ee484aeccca3455b0020b7a41b6bc5e03e037180b27cdf05484",
+        "limiar": 0.14485076425550358
+      },
+      "correcao_instancias": {
+        "versao": 1,
+        "validacao": "data/experimentos/correcao_aerea_instancias_v2/resultado.json"
+      },
+      "recuperacao_escala": {
+        "versao": 1,
+        "imgsz": 1536,
+        "confianca_min": 0.4,
+        "visual_min": 0.5,
+        "validacao": "data/experimentos/recuperacao_aerea_escala_v1/resultado.json"
+      }
+    }
+  }
+}

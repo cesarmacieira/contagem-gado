@@ -1,0 +1,32 @@
+{
+  "versao": 4,
+  "experimental": true,
+  "ativo_por_padrao": false,
+  "visoes_permitidas": [
+    "solo_denso"
+  ],
+  "extrator": "data/modelos/verificador_solo_v4/extrator.pth",
+  "extrator_sha256": "7f5810bc96def8f7552d5b7e68d53c4786f81167d28291b21c0d90e1fca14934",
+  "classificador": "data/modelos/verificador_solo_v4/classificador.joblib",
+  "classificador_sha256": "575f09ad2b8baeba8378b9b827feb83fc5d0d66b013ad01fdc201df053e6c801",
+  "limiar": 0.7402139929901054,
+  "min_lado_px": 0,
+  "detector_sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+  "descricao": "Conferência complementar experimental de objetos e montarias.",
+  "limite": "Montaria corrigida no caso conhecido Bernard; sem contagem total exata desse rebanho nem novo teste denso independente. Somente solo_denso, desligada por padrão.",
+  "evidencia": "data/experimentos/verificador_especies_v4/teste_especies.json",
+  "montaria": {
+    "ativo": true,
+    "versao": 1,
+    "peso_clip": "data/modelos_candidatos/ViT-B-32.pt",
+    "sha_clip": "40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af",
+    "peso_pessoas": "data/modelos_candidatos/yolo11x.pt",
+    "sha_pessoas": "7bc158aa95c0ebfdd87f70f01653c1131b93e92522dbe15c228bcd742e773a24",
+    "receita_sha256": "bb39431cd1eda42de5af88c55b54c99ab53babbd731d8102638f4c09d390a0d2",
+    "limiar": 0.00882620906829834,
+    "pessoa_imgsz": 1280,
+    "pessoa_conf": 0.5,
+    "regra_geometrica": 1,
+    "evidencia": "data/experimentos/verificador_montaria_v4/resultado.json"
+  }
+}

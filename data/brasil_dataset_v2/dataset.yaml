@@ -1,0 +1,6 @@
+path: C:/Users/cesar.macieira/Desktop/Trabalho/Python_312/contagem-gado/data/brasil_dataset_v2
+train: train.txt
+val: val.txt
+test: test.txt
+names:
+  0: bovino

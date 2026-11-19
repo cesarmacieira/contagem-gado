@@ -1,0 +1,152 @@
+[
+  {
+    "id": "5123209",
+    "referencia": 5,
+    "status": "completed",
+    "resposta": "6",
+    "contagem": 6,
+    "uso": {
+      "input_tokens": 2071,
+      "input_tokens_details": {
+        "cache_write_tokens": 2068,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 2068
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 331,
+      "output_tokens_details": {
+        "reasoning_tokens": 324
+      },
+      "total_tokens": 2402
+    },
+    "erro_absoluto": 1,
+    "custo_estimado_usd": 0.0003726
+  },
+  {
+    "id": "40766382",
+    "referencia": 1,
+    "status": "completed",
+    "resposta": "1",
+    "contagem": 1,
+    "uso": {
+      "input_tokens": 2911,
+      "input_tokens_details": {
+        "cache_write_tokens": 2908,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 2908
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 33,
+      "output_tokens_details": {
+        "reasoning_tokens": 26
+      },
+      "total_tokens": 2944
+    },
+    "erro_absoluto": 0,
+    "custo_estimado_usd": 0.0003076
+  },
+  {
+    "id": "15956981",
+    "referencia": 0,
+    "status": "completed",
+    "resposta": "0",
+    "contagem": 0,
+    "uso": {
+      "input_tokens": 2071,
+      "input_tokens_details": {
+        "cache_write_tokens": 2068,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 2068
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 83,
+      "output_tokens_details": {
+        "reasoning_tokens": 76
+      },
+      "total_tokens": 2154
+    },
+    "erro_absoluto": 0,
+    "custo_estimado_usd": 0.0002486
+  },
+  {
+    "id": "11974794",
+    "referencia": 2,
+    "status": "completed",
+    "resposta": "2",
+    "contagem": 2,
+    "uso": {
+      "input_tokens": 2911,
+      "input_tokens_details": {
+        "cache_write_tokens": 2908,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 2908
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 5,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2916
+    },
+    "erro_absoluto": 0,
+    "custo_estimado_usd": 0.00029360000000000003
+  },
+  {
+    "id": "29298395",
+    "referencia": 3,
+    "status": "completed",
+    "resposta": "3",
+    "contagem": 3,
+    "uso": {
+      "input_tokens": 2071,
+      "input_tokens_details": {
+        "cache_write_tokens": 2068,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 2068
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 5,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2076
+    },
+    "erro_absoluto": 0,
+    "custo_estimado_usd": 0.00020960000000000003
+  },
+  {
+    "id": "28804645",
+    "referencia": 3,
+    "status": "completed",
+    "resposta": "4",
+    "contagem": 4,
+    "uso": {
+      "input_tokens": 2071,
+      "input_tokens_details": {
+        "cache_write_tokens": 2068,
+        "cache_write_tokens_details": {
+          "ttl_12h_tokens": 0,
+          "ttl_30m_tokens": 2068
+        },
+        "cached_tokens": 0
+      },
+      "output_tokens": 73,
+      "output_tokens_details": {
+        "reasoning_tokens": 66
+      },
+      "total_tokens": 2144
+    },
+    "erro_absoluto": 1,
+    "custo_estimado_usd": 0.0002436
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "versao": 3,
+  "experimental": true,
+  "ativo_por_padrao": false,
+  "visoes_permitidas": [
+    "solo_denso"
+  ],
+  "extrator": "data/modelos/verificador_solo_v2/extrator.pth",
+  "extrator_sha256": "7f5810bc96def8f7552d5b7e68d53c4786f81167d28291b21c0d90e1fca14934",
+  "classificador": "data/modelos/verificador_solo_v2/classificador.joblib",
+  "classificador_sha256": "f78d742b8512709f749a9e5a8396b8078cf06edb6cb584a89d823209c7316128",
+  "limiar": 0.711257987228963,
+  "min_lado_px": 0,
+  "detector_sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+  "descricao": "Conferencia experimental de objetos parecidos com gado. Nao recupera animais omitidos pelo detector.",
+  "limite": "Somente desenvolvimento e regressao conhecida. Sem teste brasileiro denso independente novo. Bloqueado para solo_poucos.",
+  "evidencia": "data/experimentos/verificador_desfoque_rotas_v2/resultado.json"
+}

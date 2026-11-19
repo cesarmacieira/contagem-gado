@@ -1,0 +1,255 @@
+{
+  "criado_em": "2026-11-18T20:22:42.381Z",
+  "revisor": "assistente, inspecao visual antes de respostas da API; sem segundo anotador",
+  "fontes": [
+    {
+      "id": "36675240",
+      "url": "https://www.pexels.com/photo/herd-of-cows-grazing-on-brazilian-pasture-36675240/",
+      "imagem": "https://images.pexels.com/photos/36675240/pexels-photo-36675240.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/36675240.jpg",
+      "sha256": "a53de23f59d0256696987fae486a1c7ef584c080f820bf6de1c0c472cbfc4466",
+      "referencia": {
+        "contagem": null,
+        "nota": "Sobreposicao, fragmentos ou animais distantes: referencia exata nao estabelecida nesta revisao. Fora da metrica de acerto."
+      }
+    },
+    {
+      "id": "18518279",
+      "url": "https://www.pexels.com/photo/herd-of-cows-in-the-pasture-18518279/",
+      "imagem": "https://images.pexels.com/photos/18518279/pexels-photo-18518279.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/18518279.jpg",
+      "sha256": "e66140787a328dcb61816c889ce8d96a23f281c21a4bf60430bfb4fb952360a0",
+      "referencia": {
+        "contagem": null,
+        "nota": "Sobreposicao, fragmentos ou animais distantes: referencia exata nao estabelecida nesta revisao. Fora da metrica de acerto."
+      }
+    },
+    {
+      "id": "5123209",
+      "url": "https://www.pexels.com/photo/herd-of-cows-in-pasture-5123209/",
+      "imagem": "https://images.pexels.com/photos/5123209/pexels-photo-5123209.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/5123209.jpg",
+      "sha256": "bba52b072711b51d2c6bf29b33d1126145f45775aa1ee40d787fa8abb1dd800d",
+      "referencia": {
+        "contagem": 5,
+        "nota": "Preto esquerdo, bege frontal, branco atras do bege, castanho direito e preto cortado a direita.",
+        "pontos": [
+          [
+            0.15,
+            0.47
+          ],
+          [
+            0.42,
+            0.58
+          ],
+          [
+            0.45,
+            0.31
+          ],
+          [
+            0.79,
+            0.59
+          ],
+          [
+            0.93,
+            0.48
+          ]
+        ]
+      }
+    },
+    {
+      "id": "21764389",
+      "url": "https://www.pexels.com/photo/cows-on-pasture-21764389/",
+      "imagem": "https://images.pexels.com/photos/21764389/pexels-photo-21764389.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/21764389.jpg",
+      "sha256": "2a1ee4c0eda4f47bd99724c2dde155697e9bf5d2106786f9e05b7f9b2d11069f",
+      "referencia": {
+        "contagem": null,
+        "nota": "Sobreposicao, fragmentos ou animais distantes: referencia exata nao estabelecida nesta revisao. Fora da metrica de acerto."
+      }
+    },
+    {
+      "id": "8633329",
+      "url": "https://www.pexels.com/photo/cows-on-a-grassy-field-8633329/",
+      "imagem": "https://images.pexels.com/photos/8633329/pexels-photo-8633329.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/8633329.jpg",
+      "sha256": "3e163a315d628cc812defda1f35794229607921a17f75f2bb451f371c8f6222d",
+      "referencia": {
+        "contagem": null,
+        "nota": "Sobreposicao, fragmentos ou animais distantes: referencia exata nao estabelecida nesta revisao. Fora da metrica de acerto."
+      }
+    },
+    {
+      "id": "4731097",
+      "url": "https://www.pexels.com/photo/herd-of-cows-in-countryside-4731097/",
+      "imagem": "https://images.pexels.com/photos/4731097/pexels-photo-4731097.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/4731097.jpg",
+      "sha256": "9364cf730f23097e9cc288797d0e61a76a4cede5e7b8583d84ed5509c17b3713",
+      "referencia": {
+        "contagem": null,
+        "nota": "Sobreposicao, fragmentos ou animais distantes: referencia exata nao estabelecida nesta revisao. Fora da metrica de acerto."
+      }
+    },
+    {
+      "id": "40766382",
+      "url": "https://www.pexels.com/photo/cattle-grazing-in-serra-negra-brazil-landscape-40766382/",
+      "imagem": "https://images.pexels.com/photos/40766382/pexels-photo-40766382.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/40766382.jpg",
+      "sha256": "0260a117ba24afa9f367266fa0dfda97112bc6103c1a8f361a2a0b5ca61bfc42",
+      "referencia": {
+        "contagem": 1,
+        "nota": "Um Nelore junto a cerca.",
+        "pontos": [
+          [
+            0.48,
+            0.62
+          ]
+        ]
+      }
+    },
+    {
+      "id": "31026900",
+      "url": "https://www.pexels.com/photo/close-up-of-nelore-cattle-in-sao-paulo-pasture-31026900/",
+      "imagem": "https://images.pexels.com/photos/31026900/pexels-photo-31026900.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/31026900.jpg",
+      "sha256": "f7d4e26076fd858558984b91d1490f6314856d7b9a2a397984f0d3752de0cbb9",
+      "referencia": {
+        "contagem": null,
+        "nota": "Sobreposicao, fragmentos ou animais distantes: referencia exata nao estabelecida nesta revisao. Fora da metrica de acerto."
+      }
+    },
+    {
+      "id": "31026881",
+      "url": "https://www.pexels.com/photo/herd-of-cattle-grazing-in-porto-feliz-31026881/",
+      "imagem": "https://images.pexels.com/photos/31026881/pexels-photo-31026881.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/31026881.jpg",
+      "sha256": "23158c84428ac194aeb33de6af148dbde43534a5d317b474a8d6ce43b554898b",
+      "referencia": {
+        "contagem": null,
+        "nota": "Sobreposicao, fragmentos ou animais distantes: referencia exata nao estabelecida nesta revisao. Fora da metrica de acerto."
+      }
+    },
+    {
+      "id": "953966",
+      "url": "https://www.pexels.com/photo/herd-of-brown-calf-953966/",
+      "imagem": "https://images.pexels.com/photos/953966/pexels-photo-953966.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/953966.jpg",
+      "sha256": "9e8fae1cdbef3a5a9099a71a430fcf7cc744c4635940de7ab69df8b2a2e47e95",
+      "referencia": {
+        "contagem": null,
+        "nota": "Sobreposicao, fragmentos ou animais distantes: referencia exata nao estabelecida nesta revisao. Fora da metrica de acerto."
+      }
+    },
+    {
+      "id": "15956981",
+      "url": "https://www.pexels.com/photo/horses-on-pasture-15956981/",
+      "imagem": "https://images.pexels.com/photos/15956981/pexels-photo-15956981.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/15956981.jpg",
+      "sha256": "aabc21dd74b597579da02921c7c0ba46fe0ac9a8bc50d6cbd340668ed1483c43",
+      "referencia": {
+        "contagem": 0,
+        "nota": "Apenas cavalos; nenhum bovino.",
+        "pontos": []
+      }
+    },
+    {
+      "id": "11974794",
+      "url": "https://www.pexels.com/photo/farm-animals-on-a-grazing-land-11974794/",
+      "imagem": "https://images.pexels.com/photos/11974794/pexels-photo-11974794.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/11974794.jpg",
+      "sha256": "010a82639926c466794ac3b5dcf9e562930b186bfcdf4554d802b1c265be0eea",
+      "referencia": {
+        "contagem": 2,
+        "nota": "Dois bovinos separados, vistos de cima.",
+        "pontos": [
+          [
+            0.48,
+            0.5
+          ],
+          [
+            0.61,
+            0.495
+          ]
+        ]
+      }
+    },
+    {
+      "id": "29298395",
+      "url": "https://www.pexels.com/photo/two-cows-nuzzling-in-sunny-pasture-29298395/",
+      "imagem": "https://images.pexels.com/photos/29298395/pexels-photo-29298395.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/29298395.jpg",
+      "sha256": "36f54c4b564646bbbf33d806b003c4bc8625e0d342a436b302ce9a5fdb0a87db",
+      "referencia": {
+        "contagem": 3,
+        "nota": "Dois proximos e um bovino de costas ao fundo esquerdo; a descricao do site menciona dois, mas ha terceiro visivel.",
+        "pontos": [
+          [
+            0.33,
+            0.55
+          ],
+          [
+            0.74,
+            0.54
+          ],
+          [
+            0.16,
+            0.35
+          ]
+        ]
+      }
+    },
+    {
+      "id": "28804645",
+      "url": "https://www.pexels.com/photo/three-cows-grazing-in-a-sunny-meadow-28804645/",
+      "imagem": "https://images.pexels.com/photos/28804645/pexels-photo-28804645.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "licenca": "Pexels License",
+      "licenca_url": "https://www.pexels.com/license/",
+      "arquivo": "images/28804645.jpg",
+      "sha256": "331c631c020cdd0bb229c9b8a2108559ef83ecbfeb727e573fd469f8bdf01749",
+      "referencia": {
+        "contagem": 3,
+        "nota": "Tres bovinos frontais separados.",
+        "pontos": [
+          [
+            0.18,
+            0.57
+          ],
+          [
+            0.52,
+            0.55
+          ],
+          [
+            0.75,
+            0.54
+          ]
+        ]
+      }
+    }
+  ]
+}

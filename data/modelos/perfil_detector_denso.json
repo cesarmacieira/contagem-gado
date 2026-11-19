@@ -1,0 +1,14 @@
+{
+  "disponivel": false,
+  "passou_benchmark_externo": true,
+  "passou_transferencia_brasil": false,
+  "config": {
+    "imgsz": 1280,
+    "iou": 0.5,
+    "conf": 0.1
+  },
+  "escopo": "Fotos de solo com varios bovinos",
+  "pesos_checkpoint": "C:\\Users\\cesar.macieira\\Desktop\\Trabalho\\Python_312\\contagem-gado\\data\\experimentos\\detector_denso_v3\\treino\\weights\\best.pt",
+  "sha256_checkpoint": "8bd53f9eb8443cc8d527a1719b0d72f978c6b92dd660ecf6ca6ff5ca612fbe32",
+  "descricao": "Detector ajustado para rebanhos de solo. Avaliacao em 873 imagens publicas, com ate 49 animais por foto. As fotos brasileiras antigas foram usadas no desenvolvimento; confira as caixas."
+}

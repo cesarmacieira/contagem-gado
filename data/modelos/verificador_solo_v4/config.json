@@ -1,0 +1,18 @@
+{
+  "versao": 4,
+  "experimental": true,
+  "ativo_por_padrao": false,
+  "visoes_permitidas": [
+    "solo_denso"
+  ],
+  "extrator": "data/modelos/verificador_solo_v4/extrator.pth",
+  "extrator_sha256": "7f5810bc96def8f7552d5b7e68d53c4786f81167d28291b21c0d90e1fca14934",
+  "classificador": "data/modelos/verificador_solo_v4/classificador.joblib",
+  "classificador_sha256": "575f09ad2b8baeba8378b9b827feb83fc5d0d66b013ad01fdc201df053e6c801",
+  "limiar": 0.7402139929901054,
+  "min_lado_px": 0,
+  "detector_sha256": "afd71a25b852f1c53bf5a7649f60326302f364d464682a86ad9aca66df21564e",
+  "descricao": "Conferencia experimental treinada tambem com cavalos e outros nao bovinos.",
+  "limite": "Ainda aceita a montaria na cena Bernard. Teste negativo novo tem seis recortes, sem novo teste positivo brasileiro denso exato. Solo_poucos bloqueado.",
+  "evidencia": "data/experimentos/verificador_especies_v4/teste_especies.json"
+}
